@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "node_id": "001",
+    "generated_at": "2026-04-14 12:14:04",
+    "duration_hours": 12.0,
+    "duration_seconds": 43200.0,
+    "sample_rate": 44100,
+    "mode": "gunshots"
+  },
+  "summary": {
+    "total_events": 61,
+    "gunshot_events": 61,
+    "bird_events": 0
+  },
+  "events": [
+    {
+      "timestamp_seconds": 1062.111,
+      "timestamp_formatted": "00:17:42.11",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_097B_S02",
+      "duration_seconds": 2.093
+    },
+    {
+      "timestamp_seconds": 1909.881,
+      "timestamp_formatted": "00:31:49.88",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_197D_S05",
+      "duration_seconds": 2.018
+    },
+    {
+      "timestamp_seconds": 5279.329,
+      "timestamp_formatted": "01:27:59.33",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_197D_S05",
+      "duration_seconds": 2.018
+    },
+    {
+      "timestamp_seconds": 5566.886,
+      "timestamp_formatted": "01:32:46.89",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_198B_S06",
+      "duration_seconds": 2.192
+    },
+    {
+      "timestamp_seconds": 5583.864,
+      "timestamp_formatted": "01:33:03.86",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018B_S06",
+      "duration_seconds": 2.078
+    },
+    {
+      "timestamp_seconds": 6075.808,
+      "timestamp_formatted": "01:41:15.81",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_177A_S06",
+      "duration_seconds": 2.277
+    },
+    {
+      "timestamp_seconds": 8071.292,
+      "timestamp_formatted": "02:14:31.29",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202A_S06",
+      "duration_seconds": 1.97
+    },
+    {
+      "timestamp_seconds": 9592.943,
+      "timestamp_formatted": "02:39:52.94",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202A_S06",
+      "duration_seconds": 1.97
+    },
+    {
+      "timestamp_seconds": 9847.836,
+      "timestamp_formatted": "02:44:07.84",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018B_S06",
+      "duration_seconds": 2.078
+    },
+    {
+      "timestamp_seconds": 10710.047,
+      "timestamp_formatted": "02:58:30.05",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_078B_S03",
+      "duration_seconds": 1.94
+    },
+    {
+      "timestamp_seconds": 11090.326,
+      "timestamp_formatted": "03:04:50.33",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082B_S03",
+      "duration_seconds": 2.004
+    },
+    {
+      "timestamp_seconds": 12537.535,
+      "timestamp_formatted": "03:28:57.54",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_198B_S06",
+      "duration_seconds": 2.192
+    },
+    {
+      "timestamp_seconds": 13907.561,
+      "timestamp_formatted": "03:51:47.56",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_080A_S01",
+      "duration_seconds": 2.054
+    },
+    {
+      "timestamp_seconds": 14647.566,
+      "timestamp_formatted": "04:04:07.57",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_042B_S05",
+      "duration_seconds": 2.036
+    },
+    {
+      "timestamp_seconds": 14847.512,
+      "timestamp_formatted": "04:07:27.51",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_060A_S05",
+      "duration_seconds": 2.332
+    },
+    {
+      "timestamp_seconds": 14897.302,
+      "timestamp_formatted": "04:08:17.30",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_198B_S06",
+      "duration_seconds": 2.192
+    },
+    {
+      "timestamp_seconds": 16094.348,
+      "timestamp_formatted": "04:28:14.35",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020A_S01",
+      "duration_seconds": 1.84
+    },
+    {
+      "timestamp_seconds": 16593.089,
+      "timestamp_formatted": "04:36:33.09",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020A_S01",
+      "duration_seconds": 1.84
+    },
+    {
+      "timestamp_seconds": 16695.917,
+      "timestamp_formatted": "04:38:15.92",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S04",
+      "duration_seconds": 2.137
+    },
+    {
+      "timestamp_seconds": 17481.399,
+      "timestamp_formatted": "04:51:21.40",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202A_S06",
+      "duration_seconds": 1.97
+    },
+    {
+      "timestamp_seconds": 17729.562,
+      "timestamp_formatted": "04:55:29.56",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_055B_S03",
+      "duration_seconds": 2.05
+    },
+    {
+      "timestamp_seconds": 19456.516,
+      "timestamp_formatted": "05:24:16.52",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S04",
+      "duration_seconds": 2.137
+    },
+    {
+      "timestamp_seconds": 19810.178,
+      "timestamp_formatted": "05:30:10.18",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S06",
+      "duration_seconds": 2.04
+    },
+    {
+      "timestamp_seconds": 20001.504,
+      "timestamp_formatted": "05:33:21.50",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_197D_S05",
+      "duration_seconds": 2.018
+    },
+    {
+      "timestamp_seconds": 20503.858,
+      "timestamp_formatted": "05:41:43.86",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S06",
+      "duration_seconds": 2.04
+    },
+    {
+      "timestamp_seconds": 20670.787,
+      "timestamp_formatted": "05:44:30.79",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_080B_S03",
+      "duration_seconds": 1.852
+    },
+    {
+      "timestamp_seconds": 21324.746,
+      "timestamp_formatted": "05:55:24.75",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_197D_S05",
+      "duration_seconds": 2.018
+    },
+    {
+      "timestamp_seconds": 21346.662,
+      "timestamp_formatted": "05:55:46.66",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S06",
+      "duration_seconds": 2.04
+    },
+    {
+      "timestamp_seconds": 21930.602,
+      "timestamp_formatted": "06:05:30.60",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082B_S03",
+      "duration_seconds": 2.004
+    },
+    {
+      "timestamp_seconds": 22169.944,
+      "timestamp_formatted": "06:09:29.94",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020A_S01",
+      "duration_seconds": 1.84
+    },
+    {
+      "timestamp_seconds": 22894.466,
+      "timestamp_formatted": "06:21:34.47",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_042B_S05",
+      "duration_seconds": 2.036
+    },
+    {
+      "timestamp_seconds": 23941.851,
+      "timestamp_formatted": "06:39:01.85",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_080B_S01",
+      "duration_seconds": 2.19
+    },
+    {
+      "timestamp_seconds": 24184.946,
+      "timestamp_formatted": "06:43:04.95",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018B_S06",
+      "duration_seconds": 2.078
+    },
+    {
+      "timestamp_seconds": 27617.765,
+      "timestamp_formatted": "07:40:17.76",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_107B_S04",
+      "duration_seconds": 1.904
+    },
+    {
+      "timestamp_seconds": 27850.451,
+      "timestamp_formatted": "07:44:10.45",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155B_S04",
+      "duration_seconds": 1.861
+    },
+    {
+      "timestamp_seconds": 28796.804,
+      "timestamp_formatted": "07:59:56.80",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155B_S04",
+      "duration_seconds": 1.861
+    },
+    {
+      "timestamp_seconds": 29443.341,
+      "timestamp_formatted": "08:10:43.34",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S04",
+      "duration_seconds": 1.931
+    },
+    {
+      "timestamp_seconds": 29827.743,
+      "timestamp_formatted": "08:17:07.74",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018B_S06",
+      "duration_seconds": 2.078
+    },
+    {
+      "timestamp_seconds": 30031.036,
+      "timestamp_formatted": "08:20:31.04",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_138B_S04",
+      "duration_seconds": 1.966
+    },
+    {
+      "timestamp_seconds": 30138.743,
+      "timestamp_formatted": "08:22:18.74",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155B_S04",
+      "duration_seconds": 1.861
+    },
+    {
+      "timestamp_seconds": 30740.354,
+      "timestamp_formatted": "08:32:20.35",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_060A_S05",
+      "duration_seconds": 2.332
+    },
+    {
+      "timestamp_seconds": 30903.842,
+      "timestamp_formatted": "08:35:03.84",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_107A_S06",
+      "duration_seconds": 1.811
+    },
+    {
+      "timestamp_seconds": 30970.306,
+      "timestamp_formatted": "08:36:10.31",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155B_S04",
+      "duration_seconds": 1.861
+    },
+    {
+      "timestamp_seconds": 31447.502,
+      "timestamp_formatted": "08:44:07.50",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_187C_S03",
+      "duration_seconds": 2.086
+    },
+    {
+      "timestamp_seconds": 31733.17,
+      "timestamp_formatted": "08:48:53.17",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202B_S05",
+      "duration_seconds": 1.961
+    },
+    {
+      "timestamp_seconds": 33113.957,
+      "timestamp_formatted": "09:11:53.96",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_042B_S05",
+      "duration_seconds": 2.036
+    },
+    {
+      "timestamp_seconds": 33422.133,
+      "timestamp_formatted": "09:17:02.13",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_198B_S06",
+      "duration_seconds": 2.192
+    },
+    {
+      "timestamp_seconds": 33525.551,
+      "timestamp_formatted": "09:18:45.55",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_115A_S06",
+      "duration_seconds": 2.04
+    },
+    {
+      "timestamp_seconds": 34594.755,
+      "timestamp_formatted": "09:36:34.76",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_137A_S02",
+      "duration_seconds": 2.138
+    },
+    {
+      "timestamp_seconds": 35025.859,
+      "timestamp_formatted": "09:43:45.86",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_198C_S01",
+      "duration_seconds": 2.158
+    },
+    {
+      "timestamp_seconds": 35033.549,
+      "timestamp_formatted": "09:43:53.55",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_087B_S03",
+      "duration_seconds": 1.943
+    },
+    {
+      "timestamp_seconds": 35709.742,
+      "timestamp_formatted": "09:55:09.74",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_080B_S01",
+      "duration_seconds": 2.19
+    },
+    {
+      "timestamp_seconds": 37649.831,
+      "timestamp_formatted": "10:27:29.83",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202B_S05",
+      "duration_seconds": 1.961
+    },
+    {
+      "timestamp_seconds": 38172.375,
+      "timestamp_formatted": "10:36:12.37",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_177A_S06",
+      "duration_seconds": 2.277
+    },
+    {
+      "timestamp_seconds": 38291.763,
+      "timestamp_formatted": "10:38:11.76",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_060A_S05",
+      "duration_seconds": 2.332
+    },
+    {
+      "timestamp_seconds": 39433.687,
+      "timestamp_formatted": "10:57:13.69",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S04",
+      "duration_seconds": 1.931
+    },
+    {
+      "timestamp_seconds": 40612.054,
+      "timestamp_formatted": "11:16:52.05",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082B_S03",
+      "duration_seconds": 2.004
+    },
+    {
+      "timestamp_seconds": 40691.128,
+      "timestamp_formatted": "11:18:11.13",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_202B_S05",
+      "duration_seconds": 1.961
+    },
+    {
+      "timestamp_seconds": 40889.098,
+      "timestamp_formatted": "11:21:29.10",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020A_S01",
+      "duration_seconds": 1.84
+    },
+    {
+      "timestamp_seconds": 40970.212,
+      "timestamp_formatted": "11:22:50.21",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_107A_S06",
+      "duration_seconds": 1.811
+    },
+    {
+      "timestamp_seconds": 42596.843,
+      "timestamp_formatted": "11:49:56.84",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_097B_S02",
+      "duration_seconds": 2.093
+    }
+  ]
+}

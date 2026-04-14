@@ -1,0 +1,1065 @@
+{
+  "metadata": {
+    "node_id": "001",
+    "generated_at": "2026-04-07 15:29:45",
+    "duration_hours": 12.0,
+    "duration_seconds": 43200.0,
+    "sample_rate": 44100,
+    "mode": "both"
+  },
+  "summary": {
+    "total_events": 131,
+    "gunshot_events": 77,
+    "bird_events": 54
+  },
+  "events": [
+    {
+      "timestamp_seconds": 196.716,
+      "timestamp_formatted": "00:03:16.72",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC941657 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 18.408
+    },
+    {
+      "timestamp_seconds": 970.664,
+      "timestamp_formatted": "00:16:10.66",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S01",
+      "duration_seconds": 1.928
+    },
+    {
+      "timestamp_seconds": 1403.955,
+      "timestamp_formatted": "00:23:23.96",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC1028543 - Great Tinamou - Tinamus major",
+      "duration_seconds": 15.883
+    },
+    {
+      "timestamp_seconds": 2029.82,
+      "timestamp_formatted": "00:33:49.82",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1085669 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 6.341
+    },
+    {
+      "timestamp_seconds": 2692.969,
+      "timestamp_formatted": "00:44:52.97",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC274108 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 30.589
+    },
+    {
+      "timestamp_seconds": 3131.948,
+      "timestamp_formatted": "00:52:11.95",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_087A_S05",
+      "duration_seconds": 1.988
+    },
+    {
+      "timestamp_seconds": 3170.763,
+      "timestamp_formatted": "00:52:50.76",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_058B_S01",
+      "duration_seconds": 1.963
+    },
+    {
+      "timestamp_seconds": 3321.336,
+      "timestamp_formatted": "00:55:21.34",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_137A_S01",
+      "duration_seconds": 1.944
+    },
+    {
+      "timestamp_seconds": 3346.286,
+      "timestamp_formatted": "00:55:46.29",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_007A_S05",
+      "duration_seconds": 1.814
+    },
+    {
+      "timestamp_seconds": 3429.56,
+      "timestamp_formatted": "00:57:09.56",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_137A_S01",
+      "duration_seconds": 1.944
+    },
+    {
+      "timestamp_seconds": 3897.239,
+      "timestamp_formatted": "01:04:57.24",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC274584 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 9.639
+    },
+    {
+      "timestamp_seconds": 3942.914,
+      "timestamp_formatted": "01:05:42.91",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S01",
+      "duration_seconds": 1.928
+    },
+    {
+      "timestamp_seconds": 4043.723,
+      "timestamp_formatted": "01:07:23.72",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S05",
+      "duration_seconds": 1.998
+    },
+    {
+      "timestamp_seconds": 4550.813,
+      "timestamp_formatted": "01:15:50.81",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC941657 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 18.408
+    },
+    {
+      "timestamp_seconds": 5049.556,
+      "timestamp_formatted": "01:24:09.56",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_002A_S02",
+      "duration_seconds": 2.115
+    },
+    {
+      "timestamp_seconds": 5651.405,
+      "timestamp_formatted": "01:34:11.41",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158B_S05",
+      "duration_seconds": 1.889
+    },
+    {
+      "timestamp_seconds": 5711.145,
+      "timestamp_formatted": "01:35:11.15",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158B_S05",
+      "duration_seconds": 1.889
+    },
+    {
+      "timestamp_seconds": 5844.466,
+      "timestamp_formatted": "01:37:24.47",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100B_S05",
+      "duration_seconds": 2.012
+    },
+    {
+      "timestamp_seconds": 5956.313,
+      "timestamp_formatted": "01:39:16.31",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_157A_S02",
+      "duration_seconds": 2.145
+    },
+    {
+      "timestamp_seconds": 6025.953,
+      "timestamp_formatted": "01:40:25.95",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082A_S02",
+      "duration_seconds": 1.845
+    },
+    {
+      "timestamp_seconds": 6123.567,
+      "timestamp_formatted": "01:42:03.57",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158B_S05",
+      "duration_seconds": 1.889
+    },
+    {
+      "timestamp_seconds": 6619.761,
+      "timestamp_formatted": "01:50:19.76",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100A_S06",
+      "duration_seconds": 2.11
+    },
+    {
+      "timestamp_seconds": 7006.529,
+      "timestamp_formatted": "01:56:46.53",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_055B_S04",
+      "duration_seconds": 2.107
+    },
+    {
+      "timestamp_seconds": 7146.905,
+      "timestamp_formatted": "01:59:06.90",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018A_S03",
+      "duration_seconds": 2.092
+    },
+    {
+      "timestamp_seconds": 7258.264,
+      "timestamp_formatted": "02:00:58.26",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_137A_S01",
+      "duration_seconds": 1.944
+    },
+    {
+      "timestamp_seconds": 8173.183,
+      "timestamp_formatted": "02:16:13.18",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S01",
+      "duration_seconds": 1.965
+    },
+    {
+      "timestamp_seconds": 8422.6,
+      "timestamp_formatted": "02:20:22.60",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155A_S06",
+      "duration_seconds": 1.876
+    },
+    {
+      "timestamp_seconds": 8905.996,
+      "timestamp_formatted": "02:28:26.00",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_137B_S01",
+      "duration_seconds": 1.823
+    },
+    {
+      "timestamp_seconds": 9117.211,
+      "timestamp_formatted": "02:31:57.21",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490020 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 21.072
+    },
+    {
+      "timestamp_seconds": 9191.557,
+      "timestamp_formatted": "02:33:11.56",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC274584 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 9.639
+    },
+    {
+      "timestamp_seconds": 9282.236,
+      "timestamp_formatted": "02:34:42.24",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1016748 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 10.797
+    },
+    {
+      "timestamp_seconds": 9450.824,
+      "timestamp_formatted": "02:37:30.82",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S05",
+      "duration_seconds": 1.998
+    },
+    {
+      "timestamp_seconds": 10061.133,
+      "timestamp_formatted": "02:47:41.13",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC411100 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 12.264
+    },
+    {
+      "timestamp_seconds": 10136.292,
+      "timestamp_formatted": "02:48:56.29",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_067A_S05",
+      "duration_seconds": 2.087
+    },
+    {
+      "timestamp_seconds": 10202.927,
+      "timestamp_formatted": "02:50:02.93",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC884306 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 12.137
+    },
+    {
+      "timestamp_seconds": 10283.139,
+      "timestamp_formatted": "02:51:23.14",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_060B_S01",
+      "duration_seconds": 2.12
+    },
+    {
+      "timestamp_seconds": 10395.717,
+      "timestamp_formatted": "02:53:15.72",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 10564.785,
+      "timestamp_formatted": "02:56:04.79",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC956677 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 31.09
+    },
+    {
+      "timestamp_seconds": 10999.937,
+      "timestamp_formatted": "03:03:19.94",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC1069325 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 24.343
+    },
+    {
+      "timestamp_seconds": 11125.162,
+      "timestamp_formatted": "03:05:25.16",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC274108 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 30.589
+    },
+    {
+      "timestamp_seconds": 11298.994,
+      "timestamp_formatted": "03:08:18.99",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_047A_S04",
+      "duration_seconds": 2.146
+    },
+    {
+      "timestamp_seconds": 11406.607,
+      "timestamp_formatted": "03:10:06.61",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC884306 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 12.137
+    },
+    {
+      "timestamp_seconds": 11448.293,
+      "timestamp_formatted": "03:10:48.29",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_138B_S01",
+      "duration_seconds": 2.074
+    },
+    {
+      "timestamp_seconds": 11601.986,
+      "timestamp_formatted": "03:13:21.99",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC884306 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 12.137
+    },
+    {
+      "timestamp_seconds": 11838.523,
+      "timestamp_formatted": "03:17:18.52",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100A_S06",
+      "duration_seconds": 2.11
+    },
+    {
+      "timestamp_seconds": 12174.764,
+      "timestamp_formatted": "03:22:54.76",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1085669 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 6.341
+    },
+    {
+      "timestamp_seconds": 12277.748,
+      "timestamp_formatted": "03:24:37.75",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S01",
+      "duration_seconds": 1.928
+    },
+    {
+      "timestamp_seconds": 13267.731,
+      "timestamp_formatted": "03:41:07.73",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_002A_S02",
+      "duration_seconds": 2.115
+    },
+    {
+      "timestamp_seconds": 13280.329,
+      "timestamp_formatted": "03:41:20.33",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC987209 - Great Tinamou - Tinamus major",
+      "duration_seconds": 16.918
+    },
+    {
+      "timestamp_seconds": 13795.396,
+      "timestamp_formatted": "03:49:55.40",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_058B_S01",
+      "duration_seconds": 1.963
+    },
+    {
+      "timestamp_seconds": 13971.575,
+      "timestamp_formatted": "03:52:51.58",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC1085507 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 19.513
+    },
+    {
+      "timestamp_seconds": 14291.242,
+      "timestamp_formatted": "03:58:11.24",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082A_S02",
+      "duration_seconds": 1.845
+    },
+    {
+      "timestamp_seconds": 14477.658,
+      "timestamp_formatted": "04:01:17.66",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC1046156 - Great Tinamou - Tinamus major",
+      "duration_seconds": 24.833
+    },
+    {
+      "timestamp_seconds": 14578.149,
+      "timestamp_formatted": "04:02:58.15",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S01",
+      "duration_seconds": 1.965
+    },
+    {
+      "timestamp_seconds": 15308.529,
+      "timestamp_formatted": "04:15:08.53",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S01",
+      "duration_seconds": 1.965
+    },
+    {
+      "timestamp_seconds": 15373.127,
+      "timestamp_formatted": "04:16:13.13",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_075A_S01",
+      "duration_seconds": 1.977
+    },
+    {
+      "timestamp_seconds": 15472.794,
+      "timestamp_formatted": "04:17:52.79",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018A_S03",
+      "duration_seconds": 2.092
+    },
+    {
+      "timestamp_seconds": 15852.861,
+      "timestamp_formatted": "04:24:12.86",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC411106 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 21.384
+    },
+    {
+      "timestamp_seconds": 16158.173,
+      "timestamp_formatted": "04:29:18.17",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC987209 - Great Tinamou - Tinamus major",
+      "duration_seconds": 16.918
+    },
+    {
+      "timestamp_seconds": 16340.649,
+      "timestamp_formatted": "04:32:20.65",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_157A_S02",
+      "duration_seconds": 2.145
+    },
+    {
+      "timestamp_seconds": 16390.995,
+      "timestamp_formatted": "04:33:11.00",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_007A_S05",
+      "duration_seconds": 1.814
+    },
+    {
+      "timestamp_seconds": 16566.88,
+      "timestamp_formatted": "04:36:06.88",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_095B_S03",
+      "duration_seconds": 2.085
+    },
+    {
+      "timestamp_seconds": 16676.828,
+      "timestamp_formatted": "04:37:56.83",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC1069325 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 24.343
+    },
+    {
+      "timestamp_seconds": 16764.956,
+      "timestamp_formatted": "04:39:24.96",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082A_S02",
+      "duration_seconds": 1.845
+    },
+    {
+      "timestamp_seconds": 16986.576,
+      "timestamp_formatted": "04:43:06.58",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC597426 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 37.613
+    },
+    {
+      "timestamp_seconds": 17379.536,
+      "timestamp_formatted": "04:49:39.54",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_142A_S05",
+      "duration_seconds": 1.998
+    },
+    {
+      "timestamp_seconds": 17685.995,
+      "timestamp_formatted": "04:54:46.00",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_195B_S01",
+      "duration_seconds": 2.128
+    },
+    {
+      "timestamp_seconds": 18023.792,
+      "timestamp_formatted": "05:00:23.79",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC941657 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 18.408
+    },
+    {
+      "timestamp_seconds": 18252.417,
+      "timestamp_formatted": "05:04:12.42",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_047A_S04",
+      "duration_seconds": 2.146
+    },
+    {
+      "timestamp_seconds": 18446.948,
+      "timestamp_formatted": "05:07:26.95",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1016748 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 10.797
+    },
+    {
+      "timestamp_seconds": 18519.554,
+      "timestamp_formatted": "05:08:39.55",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC411100 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 12.264
+    },
+    {
+      "timestamp_seconds": 18981.173,
+      "timestamp_formatted": "05:16:21.17",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158A_S06",
+      "duration_seconds": 1.961
+    },
+    {
+      "timestamp_seconds": 19644.267,
+      "timestamp_formatted": "05:27:24.27",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_157A_S02",
+      "duration_seconds": 2.145
+    },
+    {
+      "timestamp_seconds": 20011.051,
+      "timestamp_formatted": "05:33:31.05",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC884306 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 12.137
+    },
+    {
+      "timestamp_seconds": 20124.953,
+      "timestamp_formatted": "05:35:24.95",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC411100 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 12.264
+    },
+    {
+      "timestamp_seconds": 20192.841,
+      "timestamp_formatted": "05:36:32.84",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC1069325 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 24.343
+    },
+    {
+      "timestamp_seconds": 20931.095,
+      "timestamp_formatted": "05:48:51.09",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC987209 - Great Tinamou - Tinamus major",
+      "duration_seconds": 16.918
+    },
+    {
+      "timestamp_seconds": 20964.42,
+      "timestamp_formatted": "05:49:24.42",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_082A_S02",
+      "duration_seconds": 1.845
+    },
+    {
+      "timestamp_seconds": 21606.093,
+      "timestamp_formatted": "06:00:06.09",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_058B_S01",
+      "duration_seconds": 1.963
+    },
+    {
+      "timestamp_seconds": 21837.12,
+      "timestamp_formatted": "06:03:57.12",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100A_S06",
+      "duration_seconds": 2.11
+    },
+    {
+      "timestamp_seconds": 22207.637,
+      "timestamp_formatted": "06:10:07.64",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_047A_S04",
+      "duration_seconds": 2.146
+    },
+    {
+      "timestamp_seconds": 23276.771,
+      "timestamp_formatted": "06:27:56.77",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_047A_S04",
+      "duration_seconds": 2.146
+    },
+    {
+      "timestamp_seconds": 23336.336,
+      "timestamp_formatted": "06:28:56.34",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 23658.36,
+      "timestamp_formatted": "06:34:18.36",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC61308 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 23.824
+    },
+    {
+      "timestamp_seconds": 24543.29,
+      "timestamp_formatted": "06:49:03.29",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 24902.444,
+      "timestamp_formatted": "06:55:02.44",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020B_S02",
+      "duration_seconds": 2.008
+    },
+    {
+      "timestamp_seconds": 26329.935,
+      "timestamp_formatted": "07:18:49.94",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100B_S05",
+      "duration_seconds": 2.012
+    },
+    {
+      "timestamp_seconds": 26806.422,
+      "timestamp_formatted": "07:26:46.42",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158B_S05",
+      "duration_seconds": 1.889
+    },
+    {
+      "timestamp_seconds": 26957.49,
+      "timestamp_formatted": "07:29:17.49",
+      "type": "BIRD",
+      "category": "Black Antshrike",
+      "clip_name": "XC411106 - Black-hooded Antshrike - Thamnophilus bridgesi",
+      "duration_seconds": 21.384
+    },
+    {
+      "timestamp_seconds": 27263.966,
+      "timestamp_formatted": "07:34:23.97",
+      "type": "GUNSHOT",
+      "category": "SW22",
+      "clip_name": "ZM_002A_S02",
+      "duration_seconds": 2.115
+    },
+    {
+      "timestamp_seconds": 28010.096,
+      "timestamp_formatted": "07:46:50.10",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1085669 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 6.341
+    },
+    {
+      "timestamp_seconds": 28197.818,
+      "timestamp_formatted": "07:49:57.82",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1085669 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 6.341
+    },
+    {
+      "timestamp_seconds": 28866.916,
+      "timestamp_formatted": "08:01:06.92",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_077B_S03",
+      "duration_seconds": 1.86
+    },
+    {
+      "timestamp_seconds": 28970.066,
+      "timestamp_formatted": "08:02:50.07",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_077B_S03",
+      "duration_seconds": 1.86
+    },
+    {
+      "timestamp_seconds": 29123.258,
+      "timestamp_formatted": "08:05:23.26",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC442704 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 55.98
+    },
+    {
+      "timestamp_seconds": 29210.935,
+      "timestamp_formatted": "08:06:50.94",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_155A_S06",
+      "duration_seconds": 1.876
+    },
+    {
+      "timestamp_seconds": 30057.126,
+      "timestamp_formatted": "08:20:57.13",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_077B_S03",
+      "duration_seconds": 1.86
+    },
+    {
+      "timestamp_seconds": 30453.926,
+      "timestamp_formatted": "08:27:33.93",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_057A_S01",
+      "duration_seconds": 1.928
+    },
+    {
+      "timestamp_seconds": 30821.056,
+      "timestamp_formatted": "08:33:41.06",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_087A_S05",
+      "duration_seconds": 1.988
+    },
+    {
+      "timestamp_seconds": 31407.764,
+      "timestamp_formatted": "08:43:27.76",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1085669 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 6.341
+    },
+    {
+      "timestamp_seconds": 31454.545,
+      "timestamp_formatted": "08:44:14.55",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_060B_S01",
+      "duration_seconds": 2.12
+    },
+    {
+      "timestamp_seconds": 32314.481,
+      "timestamp_formatted": "08:58:34.48",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_095B_S03",
+      "duration_seconds": 2.085
+    },
+    {
+      "timestamp_seconds": 32504.294,
+      "timestamp_formatted": "09:01:44.29",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 33367.08,
+      "timestamp_formatted": "09:16:07.08",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC982176 - Great Tinamou - Tinamus major peruvianus",
+      "duration_seconds": 15.237
+    },
+    {
+      "timestamp_seconds": 33408.191,
+      "timestamp_formatted": "09:16:48.19",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_067A_S05",
+      "duration_seconds": 2.087
+    },
+    {
+      "timestamp_seconds": 33536.704,
+      "timestamp_formatted": "09:18:56.70",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_095B_S03",
+      "duration_seconds": 2.085
+    },
+    {
+      "timestamp_seconds": 34118.574,
+      "timestamp_formatted": "09:28:38.57",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC956677 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 31.09
+    },
+    {
+      "timestamp_seconds": 34562.377,
+      "timestamp_formatted": "09:36:02.38",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_067A_S05",
+      "duration_seconds": 2.087
+    },
+    {
+      "timestamp_seconds": 35324.931,
+      "timestamp_formatted": "09:48:44.93",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020B_S02",
+      "duration_seconds": 2.008
+    },
+    {
+      "timestamp_seconds": 35383.194,
+      "timestamp_formatted": "09:49:43.19",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_158A_S06",
+      "duration_seconds": 1.961
+    },
+    {
+      "timestamp_seconds": 35735.564,
+      "timestamp_formatted": "09:55:35.56",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_100B_S05",
+      "duration_seconds": 2.012
+    },
+    {
+      "timestamp_seconds": 36394.397,
+      "timestamp_formatted": "10:06:34.40",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 36779.571,
+      "timestamp_formatted": "10:12:59.57",
+      "type": "GUNSHOT",
+      "category": "M16",
+      "clip_name": "ZM_077B_S03",
+      "duration_seconds": 1.86
+    },
+    {
+      "timestamp_seconds": 36927.845,
+      "timestamp_formatted": "10:15:27.84",
+      "type": "GUNSHOT",
+      "category": "Rem700",
+      "clip_name": "ZM_020B_S02",
+      "duration_seconds": 2.008
+    },
+    {
+      "timestamp_seconds": 37315.713,
+      "timestamp_formatted": "10:21:55.71",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC982176 - Great Tinamou - Tinamus major peruvianus",
+      "duration_seconds": 15.237
+    },
+    {
+      "timestamp_seconds": 37367.292,
+      "timestamp_formatted": "10:22:47.29",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_075A_S01",
+      "duration_seconds": 1.977
+    },
+    {
+      "timestamp_seconds": 37603.011,
+      "timestamp_formatted": "10:26:43.01",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_058B_S01",
+      "duration_seconds": 1.963
+    },
+    {
+      "timestamp_seconds": 37730.918,
+      "timestamp_formatted": "10:28:50.92",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC982176 - Great Tinamou - Tinamus major peruvianus",
+      "duration_seconds": 15.237
+    },
+    {
+      "timestamp_seconds": 37886.869,
+      "timestamp_formatted": "10:31:26.87",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1016738 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 15.763
+    },
+    {
+      "timestamp_seconds": 39143.138,
+      "timestamp_formatted": "10:52:23.14",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_138B_S01",
+      "duration_seconds": 2.074
+    },
+    {
+      "timestamp_seconds": 39178.385,
+      "timestamp_formatted": "10:52:58.39",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC442704 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 55.98
+    },
+    {
+      "timestamp_seconds": 39240.658,
+      "timestamp_formatted": "10:54:00.66",
+      "type": "BIRD",
+      "category": "Fiery Aracari",
+      "clip_name": "XC490021 - Fiery-billed Aracari - Pteroglossus frantzii",
+      "duration_seconds": 25.536
+    },
+    {
+      "timestamp_seconds": 39456.027,
+      "timestamp_formatted": "10:57:36.03",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC1028543 - Great Tinamou - Tinamus major",
+      "duration_seconds": 15.883
+    },
+    {
+      "timestamp_seconds": 39671.455,
+      "timestamp_formatted": "11:01:11.45",
+      "type": "BIRD",
+      "category": "Great Tinamou",
+      "clip_name": "XC982176 - Great Tinamou - Tinamus major peruvianus",
+      "duration_seconds": 15.237
+    },
+    {
+      "timestamp_seconds": 40501.412,
+      "timestamp_formatted": "11:15:01.41",
+      "type": "GUNSHOT",
+      "category": "WASR",
+      "clip_name": "ZM_018A_S03",
+      "duration_seconds": 2.092
+    },
+    {
+      "timestamp_seconds": 40917.075,
+      "timestamp_formatted": "11:21:57.07",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC442704 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 55.98
+    },
+    {
+      "timestamp_seconds": 42458.348,
+      "timestamp_formatted": "11:47:38.35",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_195B_S01",
+      "duration_seconds": 2.128
+    },
+    {
+      "timestamp_seconds": 42524.868,
+      "timestamp_formatted": "11:48:44.87",
+      "type": "GUNSHOT",
+      "category": "Ruger357",
+      "clip_name": "ZM_047A_S04",
+      "duration_seconds": 2.146
+    },
+    {
+      "timestamp_seconds": 42539.149,
+      "timestamp_formatted": "11:48:59.15",
+      "type": "BIRD",
+      "category": "Scarlet Macaw",
+      "clip_name": "XC1016738 - Scarlet Macaw - Ara macao",
+      "duration_seconds": 15.763
+    },
+    {
+      "timestamp_seconds": 43053.887,
+      "timestamp_formatted": "11:57:33.89",
+      "type": "GUNSHOT",
+      "category": "Colt1911",
+      "clip_name": "ZM_075A_S01",
+      "duration_seconds": 1.977
+    },
+    {
+      "timestamp_seconds": 43141.719,
+      "timestamp_formatted": "11:59:01.72",
+      "type": "BIRD",
+      "category": "Montezuma Oropendola",
+      "clip_name": "XC827888 - Montezuma Oropendola - Psarocolius montezuma",
+      "duration_seconds": 3.504
+    }
+  ]
+}
