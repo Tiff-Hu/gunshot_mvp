@@ -1,0 +1,445 @@
+{
+  "gunshot": {
+    "event_type": "GUNSHOT",
+    "tolerance_seconds": 2.0,
+    "require_category_match": false,
+    "n_predictions": 63,
+    "n_expected": 61,
+    "true_positives": 60,
+    "false_positives": 3,
+    "false_negatives": 1,
+    "precision": 0.9523809523809523,
+    "recall": 0.9836065573770492,
+    "f1": 0.9677419354838709,
+    "matches": [
+      {
+        "predicted_time_s": 1062.9605442176871,
+        "predicted_category": "gunshot",
+        "expected_time_s": 1062.111,
+        "expected_category": "M16",
+        "abs_error_s": 0.8495442176870256
+      },
+      {
+        "predicted_time_s": 1910.5108843537414,
+        "predicted_category": "gunshot",
+        "expected_time_s": 1909.881,
+        "expected_category": "M16",
+        "abs_error_s": 0.6298843537413177
+      },
+      {
+        "predicted_time_s": 5279.953401360544,
+        "predicted_category": "gunshot",
+        "expected_time_s": 5279.329,
+        "expected_category": "M16",
+        "abs_error_s": 0.6244013605446526
+      },
+      {
+        "predicted_time_s": 5568.134693877551,
+        "predicted_category": "gunshot",
+        "expected_time_s": 5566.886,
+        "expected_category": "WASR",
+        "abs_error_s": 1.248693877550977
+      },
+      {
+        "predicted_time_s": 5584.728571428572,
+        "predicted_category": "gunshot",
+        "expected_time_s": 5583.864,
+        "expected_category": "WASR",
+        "abs_error_s": 0.8645714285721624
+      },
+      {
+        "predicted_time_s": 6077.377891156462,
+        "predicted_category": "gunshot",
+        "expected_time_s": 6075.808,
+        "expected_category": "M16",
+        "abs_error_s": 1.5698911564622904
+      },
+      {
+        "predicted_time_s": 8072.345918367347,
+        "predicted_category": "gunshot",
+        "expected_time_s": 8071.292,
+        "expected_category": "SW22",
+        "abs_error_s": 1.0539183673463413
+      },
+      {
+        "predicted_time_s": 9593.984693877552,
+        "predicted_category": "gunshot",
+        "expected_time_s": 9592.943,
+        "expected_category": "SW22",
+        "abs_error_s": 1.0416938775524613
+      },
+      {
+        "predicted_time_s": 9848.681972789116,
+        "predicted_category": "gunshot",
+        "expected_time_s": 9847.836,
+        "expected_category": "WASR",
+        "abs_error_s": 0.8459727891167859
+      },
+      {
+        "predicted_time_s": 10710.939795918368,
+        "predicted_category": "gunshot",
+        "expected_time_s": 10710.047,
+        "expected_category": "WASR",
+        "abs_error_s": 0.892795918367483
+      },
+      {
+        "predicted_time_s": 11091.26768707483,
+        "predicted_category": "gunshot",
+        "expected_time_s": 11090.326,
+        "expected_category": "SW22",
+        "abs_error_s": 0.9416870748300425
+      },
+      {
+        "predicted_time_s": 12538.776530612246,
+        "predicted_category": "gunshot",
+        "expected_time_s": 12537.535,
+        "expected_category": "WASR",
+        "abs_error_s": 1.2415306122456968
+      },
+      {
+        "predicted_time_s": 13908.50306122449,
+        "predicted_category": "gunshot",
+        "expected_time_s": 13907.561,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.9420612244903168
+      },
+      {
+        "predicted_time_s": 14648.46394557823,
+        "predicted_category": "gunshot",
+        "expected_time_s": 14647.566,
+        "expected_category": "SW22",
+        "abs_error_s": 0.8979455782300647
+      },
+      {
+        "predicted_time_s": 14848.583673469388,
+        "predicted_category": "gunshot",
+        "expected_time_s": 14847.512,
+        "expected_category": "Rem700",
+        "abs_error_s": 1.0716734693869512
+      },
+      {
+        "predicted_time_s": 14898.549659863946,
+        "predicted_category": "gunshot",
+        "expected_time_s": 14897.302,
+        "expected_category": "WASR",
+        "abs_error_s": 1.2476598639459553
+      },
+      {
+        "predicted_time_s": 16095.245918367347,
+        "predicted_category": "gunshot",
+        "expected_time_s": 16094.348,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.8979183673473017
+      },
+      {
+        "predicted_time_s": 16593.98605442177,
+        "predicted_category": "gunshot",
+        "expected_time_s": 16593.089,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.897054421770008
+      },
+      {
+        "predicted_time_s": 16696.978911564627,
+        "predicted_category": "gunshot",
+        "expected_time_s": 16695.917,
+        "expected_category": "Colt1911",
+        "abs_error_s": 1.061911564625916
+      },
+      {
+        "predicted_time_s": 17482.44557823129,
+        "predicted_category": "gunshot",
+        "expected_time_s": 17481.399,
+        "expected_category": "SW22",
+        "abs_error_s": 1.046578231289459
+      },
+      {
+        "predicted_time_s": 17729.70918367347,
+        "predicted_category": "gunshot",
+        "expected_time_s": 17729.562,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.14718367346722516
+      },
+      {
+        "predicted_time_s": 19457.57448979592,
+        "predicted_category": "gunshot",
+        "expected_time_s": 19456.516,
+        "expected_category": "Colt1911",
+        "abs_error_s": 1.0584897959197406
+      },
+      {
+        "predicted_time_s": 19811.132653061224,
+        "predicted_category": "gunshot",
+        "expected_time_s": 19810.178,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.954653061224235
+      },
+      {
+        "predicted_time_s": 20002.13163265306,
+        "predicted_category": "gunshot",
+        "expected_time_s": 20001.504,
+        "expected_category": "M16",
+        "abs_error_s": 0.6276326530605729
+      },
+      {
+        "predicted_time_s": 20504.80442176871,
+        "predicted_category": "gunshot",
+        "expected_time_s": 20503.858,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.946421768709115
+      },
+      {
+        "predicted_time_s": 20671.67993197279,
+        "predicted_category": "gunshot",
+        "expected_time_s": 20670.787,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.892931972790393
+      },
+      {
+        "predicted_time_s": 21325.369727891157,
+        "predicted_category": "gunshot",
+        "expected_time_s": 21324.746,
+        "expected_category": "M16",
+        "abs_error_s": 0.6237278911576141
+      },
+      {
+        "predicted_time_s": 21347.622789115645,
+        "predicted_category": "gunshot",
+        "expected_time_s": 21346.662,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.9607891156447295
+      },
+      {
+        "predicted_time_s": 21931.530952380952,
+        "predicted_category": "gunshot",
+        "expected_time_s": 21930.602,
+        "expected_category": "SW22",
+        "abs_error_s": 0.9289523809529783
+      },
+      {
+        "predicted_time_s": 22170.833333333332,
+        "predicted_category": "gunshot",
+        "expected_time_s": 22169.944,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.8893333333326154
+      },
+      {
+        "predicted_time_s": 22895.367346938776,
+        "predicted_category": "gunshot",
+        "expected_time_s": 22894.466,
+        "expected_category": "SW22",
+        "abs_error_s": 0.9013469387755322
+      },
+      {
+        "predicted_time_s": 23942.829591836733,
+        "predicted_category": "gunshot",
+        "expected_time_s": 23941.851,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.9785918367342674
+      },
+      {
+        "predicted_time_s": 24185.792857142857,
+        "predicted_category": "gunshot",
+        "expected_time_s": 24184.946,
+        "expected_category": "WASR",
+        "abs_error_s": 0.8468571428566065
+      },
+      {
+        "predicted_time_s": 27618.47006802721,
+        "predicted_category": "gunshot",
+        "expected_time_s": 27617.765,
+        "expected_category": "Ruger357",
+        "abs_error_s": 0.7050680272113823
+      },
+      {
+        "predicted_time_s": 27851.26598639456,
+        "predicted_category": "gunshot",
+        "expected_time_s": 27850.451,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.8149863945582183
+      },
+      {
+        "predicted_time_s": 28797.61326530612,
+        "predicted_category": "gunshot",
+        "expected_time_s": 28796.804,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.8092653061212332
+      },
+      {
+        "predicted_time_s": 29444.22857142857,
+        "predicted_category": "gunshot",
+        "expected_time_s": 29443.341,
+        "expected_category": "M16",
+        "abs_error_s": 0.8875714285713912
+      },
+      {
+        "predicted_time_s": 29828.601020408165,
+        "predicted_category": "gunshot",
+        "expected_time_s": 29827.743,
+        "expected_category": "WASR",
+        "abs_error_s": 0.8580204081663396
+      },
+      {
+        "predicted_time_s": 30031.669727891156,
+        "predicted_category": "gunshot",
+        "expected_time_s": 30031.036,
+        "expected_category": "WASR",
+        "abs_error_s": 0.6337278911560134
+      },
+      {
+        "predicted_time_s": 30139.562925170067,
+        "predicted_category": "gunshot",
+        "expected_time_s": 30138.743,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.8199251700680179
+      },
+      {
+        "predicted_time_s": 30741.43231292517,
+        "predicted_category": "gunshot",
+        "expected_time_s": 30740.354,
+        "expected_category": "Rem700",
+        "abs_error_s": 1.078312925172213
+      },
+      {
+        "predicted_time_s": 30904.726870748298,
+        "predicted_category": "gunshot",
+        "expected_time_s": 30903.842,
+        "expected_category": "Ruger357",
+        "abs_error_s": 0.8848707482975442
+      },
+      {
+        "predicted_time_s": 30971.1268707483,
+        "predicted_category": "gunshot",
+        "expected_time_s": 30970.306,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.8208707482990576
+      },
+      {
+        "predicted_time_s": 31448.48469387755,
+        "predicted_category": "gunshot",
+        "expected_time_s": 31447.502,
+        "expected_category": "Ruger357",
+        "abs_error_s": 0.9826938775513554
+      },
+      {
+        "predicted_time_s": 31733.916326530612,
+        "predicted_category": "gunshot",
+        "expected_time_s": 31733.17,
+        "expected_category": "SW22",
+        "abs_error_s": 0.7463265306141693
+      },
+      {
+        "predicted_time_s": 33114.84931972789,
+        "predicted_category": "gunshot",
+        "expected_time_s": 33113.957,
+        "expected_category": "SW22",
+        "abs_error_s": 0.8923197278854786
+      },
+      {
+        "predicted_time_s": 33423.38979591837,
+        "predicted_category": "gunshot",
+        "expected_time_s": 33422.133,
+        "expected_category": "WASR",
+        "abs_error_s": 1.256795918365242
+      },
+      {
+        "predicted_time_s": 33526.50306122449,
+        "predicted_category": "gunshot",
+        "expected_time_s": 33525.551,
+        "expected_category": "Colt1911",
+        "abs_error_s": 0.9520612244887161
+      },
+      {
+        "predicted_time_s": 34595.81020408163,
+        "predicted_category": "gunshot",
+        "expected_time_s": 34594.755,
+        "expected_category": "M16",
+        "abs_error_s": 1.0552040816328372
+      },
+      {
+        "predicted_time_s": 35026.93537414966,
+        "predicted_category": "gunshot",
+        "expected_time_s": 35025.859,
+        "expected_category": "WASR",
+        "abs_error_s": 1.0763741496630246
+      },
+      {
+        "predicted_time_s": 35710.71156462585,
+        "predicted_category": "gunshot",
+        "expected_time_s": 35709.742,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.9695646258551278
+      },
+      {
+        "predicted_time_s": 37650.581972789114,
+        "predicted_category": "gunshot",
+        "expected_time_s": 37649.831,
+        "expected_category": "SW22",
+        "abs_error_s": 0.7509727891156217
+      },
+      {
+        "predicted_time_s": 38173.95714285714,
+        "predicted_category": "gunshot",
+        "expected_time_s": 38172.375,
+        "expected_category": "M16",
+        "abs_error_s": 1.5821428571434808
+      },
+      {
+        "predicted_time_s": 38292.83299319728,
+        "predicted_category": "gunshot",
+        "expected_time_s": 38291.763,
+        "expected_category": "Rem700",
+        "abs_error_s": 1.069993197277654
+      },
+      {
+        "predicted_time_s": 39434.57551020408,
+        "predicted_category": "gunshot",
+        "expected_time_s": 39433.687,
+        "expected_category": "M16",
+        "abs_error_s": 0.8885102040803758
+      },
+      {
+        "predicted_time_s": 40612.98333333333,
+        "predicted_category": "gunshot",
+        "expected_time_s": 40612.054,
+        "expected_category": "SW22",
+        "abs_error_s": 0.9293333333334886
+      },
+      {
+        "predicted_time_s": 40691.868707482994,
+        "predicted_category": "gunshot",
+        "expected_time_s": 40691.128,
+        "expected_category": "SW22",
+        "abs_error_s": 0.7407074829970952
+      },
+      {
+        "predicted_time_s": 40889.990136054425,
+        "predicted_category": "gunshot",
+        "expected_time_s": 40889.098,
+        "expected_category": "Rem700",
+        "abs_error_s": 0.8921360544263734
+      },
+      {
+        "predicted_time_s": 40971.09761904762,
+        "predicted_category": "gunshot",
+        "expected_time_s": 40970.212,
+        "expected_category": "Ruger357",
+        "abs_error_s": 0.8856190476217307
+      },
+      {
+        "predicted_time_s": 42597.688095238096,
+        "predicted_category": "gunshot",
+        "expected_time_s": 42596.843,
+        "expected_category": "M16",
+        "abs_error_s": 0.8450952380953822
+      }
+    ]
+  },
+  "overall": {
+    "true_positives": 60,
+    "false_positives": 3,
+    "false_negatives": 1,
+    "precision": 0.9523809523809523,
+    "recall": 0.9836065573770492,
+    "f1": 0.9677419354838709
+  }
+}

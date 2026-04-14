@@ -1,0 +1,1577 @@
+[
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 1062.9605442176871,
+    "trigger_time_formatted": "00:17:42.961",
+    "clip_start_s": 1061.4605442176871,
+    "clip_end_s": 1064.4605442176871,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1062.9605442176871,
+      "peak_rms": 0.056528814136981964,
+      "peak_flux": 39.317256927490234,
+      "zcr": 0.04358610914245216,
+      "bandwidth_hz": 4349.945291917166,
+      "snr_db": 26.118467330932617
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1062.9605442176871,
+      "is_gunshot": true,
+      "confidence": 0.9999998807907104,
+      "inference_ms": 0.8842919487506151,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 1063.615986394558,
+    "trigger_time_formatted": "00:17:43.616",
+    "clip_start_s": 1062.115986394558,
+    "clip_end_s": 1065.115986394558,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1063.615986394558,
+      "peak_rms": 0.008067633956670761,
+      "peak_flux": 8.718624114990234,
+      "zcr": 0.006732813607370659,
+      "bandwidth_hz": 3357.871732038508,
+      "snr_db": 7.138562202453613
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1063.615986394558,
+      "is_gunshot": true,
+      "confidence": 0.9999991655349731,
+      "inference_ms": 0.050875009037554264,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 1910.5108843537414,
+    "trigger_time_formatted": "00:31:50.511",
+    "clip_start_s": 1909.0108843537414,
+    "clip_end_s": 1912.0108843537414,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1910.5108843537414,
+      "peak_rms": 0.10417824983596802,
+      "peak_flux": 126.892822265625,
+      "zcr": 0.08185683912119064,
+      "bandwidth_hz": 4725.384179627461,
+      "snr_db": 27.244531631469727
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 1910.5108843537414,
+      "is_gunshot": true,
+      "confidence": 0.9987646341323853,
+      "inference_ms": 0.04891701973974705,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 5279.953401360544,
+    "trigger_time_formatted": "01:27:59.953",
+    "clip_start_s": 5278.453401360544,
+    "clip_end_s": 5281.453401360544,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5279.953401360544,
+      "peak_rms": 0.10404461622238159,
+      "peak_flux": 71.05683135986328,
+      "zcr": 0.07618710134656272,
+      "bandwidth_hz": 4703.18754943728,
+      "snr_db": 32.27566146850586
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5279.953401360544,
+      "is_gunshot": true,
+      "confidence": 0.9987622499465942,
+      "inference_ms": 0.041458988562226295,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 5568.134693877551,
+    "trigger_time_formatted": "01:32:48.135",
+    "clip_start_s": 5566.634693877551,
+    "clip_end_s": 5569.634693877551,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5568.134693877551,
+      "peak_rms": 0.2707967758178711,
+      "peak_flux": 164.2358856201172,
+      "zcr": 0.7551381998582566,
+      "bandwidth_hz": 6016.730063221761,
+      "snr_db": 45.8153190612793
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5568.134693877551,
+      "is_gunshot": true,
+      "confidence": 0.9793851375579834,
+      "inference_ms": 0.039209029637277126,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 5584.728571428572,
+    "trigger_time_formatted": "01:33:04.729",
+    "clip_start_s": 5583.228571428572,
+    "clip_end_s": 5586.228571428572,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5584.728571428572,
+      "peak_rms": 0.048065103590488434,
+      "peak_flux": 56.90123748779297,
+      "zcr": 0.1700921332388377,
+      "bandwidth_hz": 5173.836687628929,
+      "snr_db": 43.270286560058594
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 5584.728571428572,
+      "is_gunshot": true,
+      "confidence": 1.0,
+      "inference_ms": 0.038792029954493046,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 6077.377891156462,
+    "trigger_time_formatted": "01:41:17.378",
+    "clip_start_s": 6075.877891156462,
+    "clip_end_s": 6078.877891156462,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 6077.377891156462,
+      "peak_rms": 0.13400660455226898,
+      "peak_flux": 23.585901260375977,
+      "zcr": 0.38058114812189936,
+      "bandwidth_hz": 4986.495876629203,
+      "snr_db": 37.126678466796875
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 6077.377891156462,
+      "is_gunshot": true,
+      "confidence": 0.9996912479400635,
+      "inference_ms": 0.049833906814455986,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 8072.345918367347,
+    "trigger_time_formatted": "02:14:32.346",
+    "clip_start_s": 8070.845918367347,
+    "clip_end_s": 8073.845918367347,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 8072.345918367347,
+      "peak_rms": 0.06868401169776917,
+      "peak_flux": 94.61473846435547,
+      "zcr": 0.1700921332388377,
+      "bandwidth_hz": 3672.6340104017454,
+      "snr_db": 41.19976043701172
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 8072.345918367347,
+      "is_gunshot": true,
+      "confidence": 0.999994158744812,
+      "inference_ms": 0.039749895222485065,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 9593.984693877552,
+    "trigger_time_formatted": "02:39:53.985",
+    "clip_start_s": 9592.484693877552,
+    "clip_end_s": 9595.484693877552,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 9593.984693877552,
+      "peak_rms": 0.06842200458049774,
+      "peak_flux": 8.98392391204834,
+      "zcr": 0.1403260099220411,
+      "bandwidth_hz": 3708.084059646445,
+      "snr_db": 41.940921783447266
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 9593.984693877552,
+      "is_gunshot": true,
+      "confidence": 0.9999908208847046,
+      "inference_ms": 0.0411659711971879,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 9848.681972789116,
+    "trigger_time_formatted": "02:44:08.682",
+    "clip_start_s": 9847.181972789116,
+    "clip_end_s": 9850.181972789116,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 9848.681972789116,
+      "peak_rms": 0.04068080335855484,
+      "peak_flux": 7.149628639221191,
+      "zcr": 0.14528703047484054,
+      "bandwidth_hz": 5148.848700848738,
+      "snr_db": 42.42937088012695
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 9848.681972789116,
+      "is_gunshot": true,
+      "confidence": 1.0,
+      "inference_ms": 0.038375030271708965,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 10710.939795918368,
+    "trigger_time_formatted": "02:58:30.940",
+    "clip_start_s": 10709.439795918368,
+    "clip_end_s": 10712.439795918368,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 10710.939795918368,
+      "peak_rms": 0.05618852749466896,
+      "peak_flux": 4.9174652099609375,
+      "zcr": 0.08752657689581857,
+      "bandwidth_hz": 4653.853709617893,
+      "snr_db": 35.5352783203125
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 10710.939795918368,
+      "is_gunshot": true,
+      "confidence": 0.9999969005584717,
+      "inference_ms": 0.038041966035962105,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 11091.26768707483,
+    "trigger_time_formatted": "03:04:51.268",
+    "clip_start_s": 11089.76768707483,
+    "clip_end_s": 11092.76768707483,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 11091.26768707483,
+      "peak_rms": 0.08516144007444382,
+      "peak_flux": 87.74723815917969,
+      "zcr": 0.013819985825655563,
+      "bandwidth_hz": 4351.148615029286,
+      "snr_db": 8.403107643127441
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 11091.26768707483,
+      "is_gunshot": true,
+      "confidence": 0.9966375827789307,
+      "inference_ms": 0.05804200191050768,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 12538.776530612246,
+    "trigger_time_formatted": "03:28:58.777",
+    "clip_start_s": 12537.276530612246,
+    "clip_end_s": 12540.276530612246,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 12538.776530612246,
+      "peak_rms": 0.24116240441799164,
+      "peak_flux": 23.07270050048828,
+      "zcr": 0.7997873848334515,
+      "bandwidth_hz": 6088.172168151118,
+      "snr_db": 43.71318435668945
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 12538.776530612246,
+      "is_gunshot": true,
+      "confidence": 0.966296911239624,
+      "inference_ms": 0.03683404065668583,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 13908.50306122449,
+    "trigger_time_formatted": "03:51:48.503",
+    "clip_start_s": 13907.00306122449,
+    "clip_end_s": 13910.00306122449,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 13908.50306122449,
+      "peak_rms": 0.06067843362689018,
+      "peak_flux": 85.10914611816406,
+      "zcr": 0.07158043940467754,
+      "bandwidth_hz": 4020.863348554612,
+      "snr_db": 22.174583435058594
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 13908.50306122449,
+      "is_gunshot": true,
+      "confidence": 0.9999603033065796,
+      "inference_ms": 0.045208027586340904,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 14648.46394557823,
+    "trigger_time_formatted": "04:04:08.464",
+    "clip_start_s": 14646.96394557823,
+    "clip_end_s": 14649.96394557823,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14648.46394557823,
+      "peak_rms": 0.047023165971040726,
+      "peak_flux": 44.27645492553711,
+      "zcr": 0.058114812189936214,
+      "bandwidth_hz": 4878.789877422723,
+      "snr_db": 30.270591735839844
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14648.46394557823,
+      "is_gunshot": true,
+      "confidence": 0.9999836683273315,
+      "inference_ms": 0.03550003748387098,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 14848.583673469388,
+    "trigger_time_formatted": "04:07:28.584",
+    "clip_start_s": 14847.083673469388,
+    "clip_end_s": 14850.083673469388,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14848.583673469388,
+      "peak_rms": 0.06351931393146515,
+      "peak_flux": 18.423004150390625,
+      "zcr": 0.11268603827072998,
+      "bandwidth_hz": 5525.81737278867,
+      "snr_db": 32.73986053466797
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14848.583673469388,
+      "is_gunshot": true,
+      "confidence": 0.9999984502792358,
+      "inference_ms": 0.03899994771927595,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 14898.549659863946,
+    "trigger_time_formatted": "04:08:18.550",
+    "clip_start_s": 14897.049659863946,
+    "clip_end_s": 14900.049659863946,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14898.549659863946,
+      "peak_rms": 0.2681170105934143,
+      "peak_flux": 126.52018737792969,
+      "zcr": 0.7721474131821403,
+      "bandwidth_hz": 6035.611069682358,
+      "snr_db": 45.781246185302734
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 14898.549659863946,
+      "is_gunshot": true,
+      "confidence": 0.9718495607376099,
+      "inference_ms": 0.035708071663975716,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 16095.245918367347,
+    "trigger_time_formatted": "04:28:15.246",
+    "clip_start_s": 16093.745918367347,
+    "clip_end_s": 16096.745918367347,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16095.245918367347,
+      "peak_rms": 0.1604042947292328,
+      "peak_flux": 68.62519836425781,
+      "zcr": 0.37172218284904324,
+      "bandwidth_hz": 5293.124914641505,
+      "snr_db": 37.476219177246094
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16095.245918367347,
+      "is_gunshot": true,
+      "confidence": 0.9998971223831177,
+      "inference_ms": 0.04262488801032305,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 16593.98605442177,
+    "trigger_time_formatted": "04:36:33.986",
+    "clip_start_s": 16592.48605442177,
+    "clip_end_s": 16595.48605442177,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16593.98605442177,
+      "peak_rms": 0.15957723557949066,
+      "peak_flux": 61.895198822021484,
+      "zcr": 0.3798724309000709,
+      "bandwidth_hz": 5295.029573807712,
+      "snr_db": 41.0941276550293
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16593.98605442177,
+      "is_gunshot": true,
+      "confidence": 0.999904990196228,
+      "inference_ms": 0.035792007111012936,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 16696.978911564627,
+    "trigger_time_formatted": "04:38:16.979",
+    "clip_start_s": 16695.478911564627,
+    "clip_end_s": 16698.478911564627,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16696.978911564627,
+      "peak_rms": 0.10174914449453354,
+      "peak_flux": 44.008209228515625,
+      "zcr": 0.029766123316796598,
+      "bandwidth_hz": 4049.6106056128506,
+      "snr_db": 36.875667572021484
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 16696.978911564627,
+      "is_gunshot": true,
+      "confidence": 0.9999202489852905,
+      "inference_ms": 0.03679096698760986,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 17482.44557823129,
+    "trigger_time_formatted": "04:51:22.446",
+    "clip_start_s": 17480.94557823129,
+    "clip_end_s": 17483.94557823129,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17482.44557823129,
+      "peak_rms": 0.06865014880895615,
+      "peak_flux": 39.056396484375,
+      "zcr": 0.14918497519489723,
+      "bandwidth_hz": 3679.796672673826,
+      "snr_db": 42.17197799682617
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17482.44557823129,
+      "is_gunshot": true,
+      "confidence": 0.9999946355819702,
+      "inference_ms": 0.04741700831800699,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 17729.70918367347,
+    "trigger_time_formatted": "04:55:29.709",
+    "clip_start_s": 17728.20918367347,
+    "clip_end_s": 17731.20918367347,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17729.70918367347,
+      "peak_rms": 0.4769139587879181,
+      "peak_flux": 318.9856872558594,
+      "zcr": 0.006024096385542169,
+      "bandwidth_hz": 3144.048817312917,
+      "snr_db": 6.801253318786621
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17729.70918367347,
+      "is_gunshot": true,
+      "confidence": 0.9999834299087524,
+      "inference_ms": 0.04091695882380009,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 17730.325170068027,
+    "trigger_time_formatted": "04:55:30.325",
+    "clip_start_s": 17728.825170068027,
+    "clip_end_s": 17731.825170068027,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17730.325170068027,
+      "peak_rms": 0.07225832343101501,
+      "peak_flux": 103.85945892333984,
+      "zcr": 0.04500354358610914,
+      "bandwidth_hz": 4956.858206529084,
+      "snr_db": 28.191804885864258
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 17730.325170068027,
+      "is_gunshot": true,
+      "confidence": 0.9999978542327881,
+      "inference_ms": 0.03958400338888168,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 19457.57448979592,
+    "trigger_time_formatted": "05:24:17.574",
+    "clip_start_s": 19456.07448979592,
+    "clip_end_s": 19459.07448979592,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 19457.57448979592,
+      "peak_rms": 0.1012694239616394,
+      "peak_flux": 18.574323654174805,
+      "zcr": 0.02374202693125443,
+      "bandwidth_hz": 4041.1177410561445,
+      "snr_db": 36.567596435546875
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 19457.57448979592,
+      "is_gunshot": true,
+      "confidence": 0.9998928308486938,
+      "inference_ms": 0.036958022974431515,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 19811.132653061224,
+    "trigger_time_formatted": "05:30:11.133",
+    "clip_start_s": 19809.632653061224,
+    "clip_end_s": 19812.632653061224,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 19811.132653061224,
+      "peak_rms": 0.0893784761428833,
+      "peak_flux": 82.44407653808594,
+      "zcr": 0.4121190644932672,
+      "bandwidth_hz": 4697.472894445777,
+      "snr_db": 37.875144958496094
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 19811.132653061224,
+      "is_gunshot": true,
+      "confidence": 0.9999957084655762,
+      "inference_ms": 0.03591598942875862,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 20002.13163265306,
+    "trigger_time_formatted": "05:33:22.132",
+    "clip_start_s": 20000.63163265306,
+    "clip_end_s": 20003.63163265306,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20002.13163265306,
+      "peak_rms": 0.10412735491991043,
+      "peak_flux": 109.23485565185547,
+      "zcr": 0.0815024805102764,
+      "bandwidth_hz": 4719.917633033239,
+      "snr_db": 31.768470764160156
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20002.13163265306,
+      "is_gunshot": true,
+      "confidence": 0.9985639452934265,
+      "inference_ms": 0.03574998117983341,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 20504.80442176871,
+    "trigger_time_formatted": "05:41:44.804",
+    "clip_start_s": 20503.30442176871,
+    "clip_end_s": 20506.30442176871,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20504.80442176871,
+      "peak_rms": 0.08867519348859787,
+      "peak_flux": 13.349359512329102,
+      "zcr": 0.39440113394755494,
+      "bandwidth_hz": 4753.917571526637,
+      "snr_db": 37.80388641357422
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20504.80442176871,
+      "is_gunshot": true,
+      "confidence": 0.9999943971633911,
+      "inference_ms": 0.040458980947732925,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 20671.67993197279,
+    "trigger_time_formatted": "05:44:31.680",
+    "clip_start_s": 20670.17993197279,
+    "clip_end_s": 20673.17993197279,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20671.67993197279,
+      "peak_rms": 0.05661163479089737,
+      "peak_flux": 13.750502586364746,
+      "zcr": 0.0556343019135365,
+      "bandwidth_hz": 5183.65493311175,
+      "snr_db": 31.02492332458496
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 20671.67993197279,
+      "is_gunshot": true,
+      "confidence": 0.9999988079071045,
+      "inference_ms": 0.03820809070020914,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 21325.369727891157,
+    "trigger_time_formatted": "05:55:25.370",
+    "clip_start_s": 21323.869727891157,
+    "clip_end_s": 21326.869727891157,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21325.369727891157,
+      "peak_rms": 0.09461709856987,
+      "peak_flux": 58.622406005859375,
+      "zcr": 0.07795889440113395,
+      "bandwidth_hz": 4699.084341408927,
+      "snr_db": 32.30171585083008
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21325.369727891157,
+      "is_gunshot": true,
+      "confidence": 0.9986873269081116,
+      "inference_ms": 0.0576250022277236,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 21347.622789115645,
+    "trigger_time_formatted": "05:55:47.623",
+    "clip_start_s": 21346.122789115645,
+    "clip_end_s": 21349.122789115645,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21347.622789115645,
+      "peak_rms": 0.08956720679998398,
+      "peak_flux": 135.38858032226562,
+      "zcr": 0.4192062367115521,
+      "bandwidth_hz": 4690.894052886619,
+      "snr_db": 35.14375305175781
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21347.622789115645,
+      "is_gunshot": true,
+      "confidence": 0.9999955892562866,
+      "inference_ms": 0.036499928683042526,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 21931.530952380952,
+    "trigger_time_formatted": "06:05:31.531",
+    "clip_start_s": 21930.030952380952,
+    "clip_end_s": 21933.030952380952,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21931.530952380952,
+      "peak_rms": 0.0823010727763176,
+      "peak_flux": 26.748193740844727,
+      "zcr": 0.007087172218284904,
+      "bandwidth_hz": 4258.638281237992,
+      "snr_db": 7.906490325927734
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 21931.530952380952,
+      "is_gunshot": true,
+      "confidence": 0.9978516101837158,
+      "inference_ms": 0.03825000021606684,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 22170.833333333332,
+    "trigger_time_formatted": "06:09:30.833",
+    "clip_start_s": 22169.333333333332,
+    "clip_end_s": 22172.333333333332,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 22170.833333333332,
+      "peak_rms": 0.05439930036664009,
+      "peak_flux": 13.732741355895996,
+      "zcr": 0.36888731396172925,
+      "bandwidth_hz": 5336.495666577681,
+      "snr_db": 32.37791442871094
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 22170.833333333332,
+      "is_gunshot": true,
+      "confidence": 0.9998018145561218,
+      "inference_ms": 0.04187505692243576,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 22895.367346938776,
+    "trigger_time_formatted": "06:21:35.367",
+    "clip_start_s": 22893.867346938776,
+    "clip_end_s": 22896.867346938776,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 22895.367346938776,
+      "peak_rms": 0.047094281762838364,
+      "peak_flux": 63.329315185546875,
+      "zcr": 0.06626506024096386,
+      "bandwidth_hz": 4880.158340100242,
+      "snr_db": 30.475574493408203
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 22895.367346938776,
+      "is_gunshot": true,
+      "confidence": 0.9999819993972778,
+      "inference_ms": 0.03566697705537081,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 23942.829591836733,
+    "trigger_time_formatted": "06:39:02.830",
+    "clip_start_s": 23941.329591836733,
+    "clip_end_s": 23944.329591836733,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 23942.829591836733,
+      "peak_rms": 0.0743856206536293,
+      "peak_flux": 97.8115234375,
+      "zcr": 0.09107016300496103,
+      "bandwidth_hz": 4548.5919601026235,
+      "snr_db": 30.628042221069336
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 23942.829591836733,
+      "is_gunshot": true,
+      "confidence": 0.9999959468841553,
+      "inference_ms": 0.04541699308902025,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 24185.792857142857,
+    "trigger_time_formatted": "06:43:05.793",
+    "clip_start_s": 24184.292857142857,
+    "clip_end_s": 24187.292857142857,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 24185.792857142857,
+      "peak_rms": 0.04068814963102341,
+      "peak_flux": 11.88219165802002,
+      "zcr": 0.15095676824946846,
+      "bandwidth_hz": 5157.814065698728,
+      "snr_db": 42.50392150878906
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 24185.792857142857,
+      "is_gunshot": true,
+      "confidence": 1.0,
+      "inference_ms": 0.03529200330376625,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 27618.47006802721,
+    "trigger_time_formatted": "07:40:18.470",
+    "clip_start_s": 27616.97006802721,
+    "clip_end_s": 27619.97006802721,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 27618.47006802721,
+      "peak_rms": 0.19271394610404968,
+      "peak_flux": 35.528114318847656,
+      "zcr": 0.465272856130404,
+      "bandwidth_hz": 4507.212225699927,
+      "snr_db": 30.97265625
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 27618.47006802721,
+      "is_gunshot": true,
+      "confidence": 0.9909646511077881,
+      "inference_ms": 0.03904104232788086,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 27851.26598639456,
+    "trigger_time_formatted": "07:44:11.266",
+    "clip_start_s": 27849.76598639456,
+    "clip_end_s": 27852.76598639456,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 27851.26598639456,
+      "peak_rms": 0.14268851280212402,
+      "peak_flux": 91.19329071044922,
+      "zcr": 0.7012756909992913,
+      "bandwidth_hz": 5213.592502914413,
+      "snr_db": 34.72770309448242
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 27851.26598639456,
+      "is_gunshot": true,
+      "confidence": 0.9999889135360718,
+      "inference_ms": 0.03508396912366152,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 28797.61326530612,
+    "trigger_time_formatted": "07:59:57.613",
+    "clip_start_s": 28796.11326530612,
+    "clip_end_s": 28799.11326530612,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 28797.61326530612,
+      "peak_rms": 0.1339138299226761,
+      "peak_flux": 27.709089279174805,
+      "zcr": 0.7742735648476258,
+      "bandwidth_hz": 5236.283302949375,
+      "snr_db": 33.64447784423828
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 28797.61326530612,
+      "is_gunshot": true,
+      "confidence": 0.9999845027923584,
+      "inference_ms": 0.03470899537205696,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 29444.22857142857,
+    "trigger_time_formatted": "08:10:44.229",
+    "clip_start_s": 29442.72857142857,
+    "clip_end_s": 29445.72857142857,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 29444.22857142857,
+      "peak_rms": 0.0666685402393341,
+      "peak_flux": 61.17988967895508,
+      "zcr": 0.06555634301913536,
+      "bandwidth_hz": 4509.981773760312,
+      "snr_db": 31.769636154174805
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 29444.22857142857,
+      "is_gunshot": true,
+      "confidence": 0.9999995231628418,
+      "inference_ms": 0.0350000336766243,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 29828.601020408165,
+    "trigger_time_formatted": "08:17:08.601",
+    "clip_start_s": 29827.101020408165,
+    "clip_end_s": 29830.101020408165,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 29828.601020408165,
+      "peak_rms": 0.0597878098487854,
+      "peak_flux": 57.800933837890625,
+      "zcr": 0.16902905740609497,
+      "bandwidth_hz": 5177.373321407656,
+      "snr_db": 43.20875549316406
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 29828.601020408165,
+      "is_gunshot": true,
+      "confidence": 1.0,
+      "inference_ms": 0.03604101948440075,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 30031.669727891156,
+    "trigger_time_formatted": "08:20:31.670",
+    "clip_start_s": 30030.169727891156,
+    "clip_end_s": 30033.169727891156,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30031.669727891156,
+      "peak_rms": 0.16369245946407318,
+      "peak_flux": 73.2147216796875,
+      "zcr": 0.13536498936924168,
+      "bandwidth_hz": 5214.402052409801,
+      "snr_db": 39.932498931884766
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30031.669727891156,
+      "is_gunshot": true,
+      "confidence": 0.9999978542327881,
+      "inference_ms": 0.04133395850658417,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 30139.562925170067,
+    "trigger_time_formatted": "08:22:19.563",
+    "clip_start_s": 30138.062925170067,
+    "clip_end_s": 30141.062925170067,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30139.562925170067,
+      "peak_rms": 0.14545807242393494,
+      "peak_flux": 155.3240966796875,
+      "zcr": 0.6548547129695251,
+      "bandwidth_hz": 5201.854864070149,
+      "snr_db": 28.838090896606445
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30139.562925170067,
+      "is_gunshot": true,
+      "confidence": 0.9999908208847046,
+      "inference_ms": 0.03583298530429602,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 30741.43231292517,
+    "trigger_time_formatted": "08:32:21.432",
+    "clip_start_s": 30739.93231292517,
+    "clip_end_s": 30742.93231292517,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30741.43231292517,
+      "peak_rms": 0.06407134979963303,
+      "peak_flux": 57.41737365722656,
+      "zcr": 0.12189936215450035,
+      "bandwidth_hz": 5486.807908964731,
+      "snr_db": 32.82001876831055
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30741.43231292517,
+      "is_gunshot": true,
+      "confidence": 0.9999992847442627,
+      "inference_ms": 0.038917060010135174,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 30904.726870748298,
+    "trigger_time_formatted": "08:35:04.727",
+    "clip_start_s": 30903.226870748298,
+    "clip_end_s": 30906.226870748298,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30904.726870748298,
+      "peak_rms": 0.13609254360198975,
+      "peak_flux": 68.71678924560547,
+      "zcr": 0.3281360737065911,
+      "bandwidth_hz": 5075.881039743024,
+      "snr_db": 41.78899383544922
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30904.726870748298,
+      "is_gunshot": true,
+      "confidence": 0.9998725652694702,
+      "inference_ms": 0.036375015042722225,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 30971.1268707483,
+    "trigger_time_formatted": "08:36:11.127",
+    "clip_start_s": 30969.6268707483,
+    "clip_end_s": 30972.6268707483,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30971.1268707483,
+      "peak_rms": 0.14608941972255707,
+      "peak_flux": 176.81944274902344,
+      "zcr": 0.6527285613040397,
+      "bandwidth_hz": 5198.396747539524,
+      "snr_db": 29.09920883178711
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 30971.1268707483,
+      "is_gunshot": true,
+      "confidence": 0.9999921321868896,
+      "inference_ms": 0.03633392043411732,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 31448.48469387755,
+    "trigger_time_formatted": "08:44:08.485",
+    "clip_start_s": 31446.98469387755,
+    "clip_end_s": 31449.98469387755,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 31448.48469387755,
+      "peak_rms": 0.12660658359527588,
+      "peak_flux": 95.82025909423828,
+      "zcr": 0.14989369241672573,
+      "bandwidth_hz": 4716.574633503144,
+      "snr_db": 40.96549606323242
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 31448.48469387755,
+      "is_gunshot": true,
+      "confidence": 0.9999793767929077,
+      "inference_ms": 0.03600004129111767,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 31733.916326530612,
+    "trigger_time_formatted": "08:48:53.916",
+    "clip_start_s": 31732.416326530612,
+    "clip_end_s": 31735.416326530612,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 31733.916326530612,
+      "peak_rms": 0.0704723373055458,
+      "peak_flux": 48.43001174926758,
+      "zcr": 0.2289156626506024,
+      "bandwidth_hz": 4694.226991131976,
+      "snr_db": 48.525390625
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 31733.916326530612,
+      "is_gunshot": true,
+      "confidence": 0.9999935626983643,
+      "inference_ms": 0.06179104093462229,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 33114.84931972789,
+    "trigger_time_formatted": "09:11:54.849",
+    "clip_start_s": 33113.34931972789,
+    "clip_end_s": 33116.34931972789,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33114.84931972789,
+      "peak_rms": 0.04684659466147423,
+      "peak_flux": 16.965415954589844,
+      "zcr": 0.04571226080793763,
+      "bandwidth_hz": 4881.197431905855,
+      "snr_db": 29.872953414916992
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33114.84931972789,
+      "is_gunshot": true,
+      "confidence": 0.9999786615371704,
+      "inference_ms": 0.03820890560746193,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 33423.38979591837,
+    "trigger_time_formatted": "09:17:03.390",
+    "clip_start_s": 33421.88979591837,
+    "clip_end_s": 33424.88979591837,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33423.38979591837,
+      "peak_rms": 0.27612975239753723,
+      "peak_flux": 369.1920471191406,
+      "zcr": 0.689227498228207,
+      "bandwidth_hz": 5929.540860006336,
+      "snr_db": 40.810302734375
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33423.38979591837,
+      "is_gunshot": true,
+      "confidence": 0.9780406951904297,
+      "inference_ms": 0.038125086575746536,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 33526.50306122449,
+    "trigger_time_formatted": "09:18:46.503",
+    "clip_start_s": 33525.00306122449,
+    "clip_end_s": 33528.00306122449,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33526.50306122449,
+      "peak_rms": 0.08931195735931396,
+      "peak_flux": 59.36756896972656,
+      "zcr": 0.40396881644223953,
+      "bandwidth_hz": 4702.949429072647,
+      "snr_db": 37.855140686035156
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 33526.50306122449,
+      "is_gunshot": true,
+      "confidence": 0.9999966621398926,
+      "inference_ms": 0.03741693217307329,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 34595.81020408163,
+    "trigger_time_formatted": "09:36:35.810",
+    "clip_start_s": 34594.31020408163,
+    "clip_end_s": 34597.31020408163,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 34595.81020408163,
+      "peak_rms": 0.12921889126300812,
+      "peak_flux": 184.16140747070312,
+      "zcr": 0.5109851169383416,
+      "bandwidth_hz": 5232.701704426938,
+      "snr_db": 31.84471893310547
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 34595.81020408163,
+      "is_gunshot": true,
+      "confidence": 0.9998502731323242,
+      "inference_ms": 0.03570795524865389,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 35026.93537414966,
+    "trigger_time_formatted": "09:43:46.935",
+    "clip_start_s": 35025.43537414966,
+    "clip_end_s": 35028.43537414966,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 35026.93537414966,
+      "peak_rms": 0.37270188331604004,
+      "peak_flux": 99.14983367919922,
+      "zcr": 0.11410347271438696,
+      "bandwidth_hz": 4953.42238684904,
+      "snr_db": 34.145450592041016
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 35026.93537414966,
+      "is_gunshot": true,
+      "confidence": 0.7599538564682007,
+      "inference_ms": 0.04220788832753897,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 35710.71156462585,
+    "trigger_time_formatted": "09:55:10.712",
+    "clip_start_s": 35709.21156462585,
+    "clip_end_s": 35712.21156462585,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 35710.71156462585,
+      "peak_rms": 0.07421964406967163,
+      "peak_flux": 28.360021591186523,
+      "zcr": 0.06484762579730688,
+      "bandwidth_hz": 4534.5074979860865,
+      "snr_db": 36.34562683105469
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 35710.71156462585,
+      "is_gunshot": true,
+      "confidence": 0.9999959468841553,
+      "inference_ms": 0.03658293280750513,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 37650.581972789114,
+    "trigger_time_formatted": "10:27:30.582",
+    "clip_start_s": 37649.081972789114,
+    "clip_end_s": 37652.081972789114,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 37650.581972789114,
+      "peak_rms": 0.07049734145402908,
+      "peak_flux": 83.10807037353516,
+      "zcr": 0.21190644932671865,
+      "bandwidth_hz": 4683.859032309166,
+      "snr_db": 47.67995834350586
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 37650.581972789114,
+      "is_gunshot": true,
+      "confidence": 0.9999916553497314,
+      "inference_ms": 0.04320894367992878,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 38173.95714285714,
+    "trigger_time_formatted": "10:36:13.957",
+    "clip_start_s": 38172.45714285714,
+    "clip_end_s": 38175.45714285714,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 38173.95714285714,
+      "peak_rms": 0.13581812381744385,
+      "peak_flux": 190.70819091796875,
+      "zcr": 0.34691708008504607,
+      "bandwidth_hz": 5220.584950546457,
+      "snr_db": 34.14730453491211
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 38173.95714285714,
+      "is_gunshot": true,
+      "confidence": 0.9998431205749512,
+      "inference_ms": 0.03566697705537081,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 38292.83299319728,
+    "trigger_time_formatted": "10:38:12.833",
+    "clip_start_s": 38291.33299319728,
+    "clip_end_s": 38294.33299319728,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 38292.83299319728,
+      "peak_rms": 0.06288733333349228,
+      "peak_flux": 10.080089569091797,
+      "zcr": 0.11162296243798725,
+      "bandwidth_hz": 5550.138998656135,
+      "snr_db": 33.04490661621094
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 38292.83299319728,
+      "is_gunshot": true,
+      "confidence": 0.9999982118606567,
+      "inference_ms": 0.04283396992832422,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 39434.57551020408,
+    "trigger_time_formatted": "10:57:14.576",
+    "clip_start_s": 39433.07551020408,
+    "clip_end_s": 39436.07551020408,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 39434.57551020408,
+      "peak_rms": 0.06667903065681458,
+      "peak_flux": 69.09139251708984,
+      "zcr": 0.0673281360737066,
+      "bandwidth_hz": 4508.994664065791,
+      "snr_db": 31.77988052368164
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 39434.57551020408,
+      "is_gunshot": true,
+      "confidence": 0.9999996423721313,
+      "inference_ms": 0.03608397673815489,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 40612.98333333333,
+    "trigger_time_formatted": "11:16:52.983",
+    "clip_start_s": 40611.48333333333,
+    "clip_end_s": 40614.48333333333,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40612.98333333333,
+      "peak_rms": 0.08342519402503967,
+      "peak_flux": 27.961347579956055,
+      "zcr": 0.008504606661941885,
+      "bandwidth_hz": 4237.961264792524,
+      "snr_db": 8.03494644165039
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40612.98333333333,
+      "is_gunshot": true,
+      "confidence": 0.9976341724395752,
+      "inference_ms": 0.03612495493143797,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 40691.868707482994,
+    "trigger_time_formatted": "11:18:11.869",
+    "clip_start_s": 40690.368707482994,
+    "clip_end_s": 40693.368707482994,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40691.868707482994,
+      "peak_rms": 0.07033027708530426,
+      "peak_flux": 15.15904712677002,
+      "zcr": 0.24486180014174344,
+      "bandwidth_hz": 4726.049740933826,
+      "snr_db": 48.674827575683594
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40691.868707482994,
+      "is_gunshot": true,
+      "confidence": 0.9999912977218628,
+      "inference_ms": 0.035708071663975716,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 40889.990136054425,
+    "trigger_time_formatted": "11:21:29.990",
+    "clip_start_s": 40888.490136054425,
+    "clip_end_s": 40891.490136054425,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40889.990136054425,
+      "peak_rms": 0.07188276946544647,
+      "peak_flux": 25.64769744873047,
+      "zcr": 0.3784549964564139,
+      "bandwidth_hz": 5314.863091815224,
+      "snr_db": 35.07124328613281
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40889.990136054425,
+      "is_gunshot": true,
+      "confidence": 0.9998581409454346,
+      "inference_ms": 0.04575005732476711,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 40971.09761904762,
+    "trigger_time_formatted": "11:22:51.098",
+    "clip_start_s": 40969.59761904762,
+    "clip_end_s": 40972.59761904762,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40971.09761904762,
+      "peak_rms": 0.1361212134361267,
+      "peak_flux": 78.82078552246094,
+      "zcr": 0.3267186392629341,
+      "bandwidth_hz": 5071.692691719261,
+      "snr_db": 41.745269775390625
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 40971.09761904762,
+      "is_gunshot": true,
+      "confidence": 0.9999022483825684,
+      "inference_ms": 0.048915972001850605,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 42597.688095238096,
+    "trigger_time_formatted": "11:49:57.688",
+    "clip_start_s": 42596.188095238096,
+    "clip_end_s": 42599.188095238096,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 42597.688095238096,
+      "peak_rms": 0.056491412222385406,
+      "peak_flux": 19.497133255004883,
+      "zcr": 0.032246633593196315,
+      "bandwidth_hz": 4365.897702018759,
+      "snr_db": 26.061058044433594
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 42597.688095238096,
+      "is_gunshot": true,
+      "confidence": 0.9999997615814209,
+      "inference_ms": 0.039207981899380684,
+      "label": "gunshot"
+    }
+  },
+  {
+    "event_type": "gunshot_confirmed",
+    "source_file": "node_001_12hr_20260414_121403.wav",
+    "trigger_time_s": 42598.34353741496,
+    "trigger_time_formatted": "11:49:58.344",
+    "clip_start_s": 42596.84353741496,
+    "clip_end_s": 42599.84353741496,
+    "shaman_i": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 42598.34353741496,
+      "peak_rms": 0.008098945952951908,
+      "peak_flux": 7.231204509735107,
+      "zcr": 0.006024096385542169,
+      "bandwidth_hz": 3547.031826231142,
+      "snr_db": 7.300004005432129
+    },
+    "shaman_ii": {
+      "source_file": "node_001_12hr_20260414_121403.wav",
+      "trigger_time_s": 42598.34353741496,
+      "is_gunshot": true,
+      "confidence": 0.999998927116394,
+      "inference_ms": 0.039499951526522636,
+      "label": "gunshot"
+    }
+  }
+]
