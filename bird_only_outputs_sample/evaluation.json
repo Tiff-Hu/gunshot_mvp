@@ -1,0 +1,256 @@
+{
+  "bird": {
+    "event_type": "BIRD",
+    "tolerance_seconds": 5.0,
+    "require_category_match": true,
+    "n_predictions": 284,
+    "n_expected": 66,
+    "true_positives": 33,
+    "false_positives": 251,
+    "false_negatives": 33,
+    "precision": 0.11619718309859155,
+    "recall": 0.5,
+    "f1": 0.18857142857142858,
+    "matches": [
+      {
+        "predicted_time_s": 225.05,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 223.524,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.5260000000000105
+      },
+      {
+        "predicted_time_s": 3392.65,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 3391.106,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.543999999999869
+      },
+      {
+        "predicted_time_s": 4161.8,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 4158.392,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 3.4080000000003565
+      },
+      {
+        "predicted_time_s": 4243.35,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 4242.795,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.555000000000291
+      },
+      {
+        "predicted_time_s": 5288.25,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 5288.251,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.0010000000002037268
+      },
+      {
+        "predicted_time_s": 5986.05,
+        "predicted_category": "great tinamou",
+        "expected_time_s": 5984.537,
+        "expected_category": "Great Tinamou",
+        "abs_error_s": 1.51299999999992
+      },
+      {
+        "predicted_time_s": 6801.75,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 6800.177,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 1.5730000000003201
+      },
+      {
+        "predicted_time_s": 7144.5,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 7141.967,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 2.5330000000003565
+      },
+      {
+        "predicted_time_s": 9647.5,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 9646.539,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.9609999999993306
+      },
+      {
+        "predicted_time_s": 10217.3,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 10216.116,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.183999999999287
+      },
+      {
+        "predicted_time_s": 15052.1,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 15049.448,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 2.6520000000000437
+      },
+      {
+        "predicted_time_s": 16027.05,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 16026.116,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.933999999999287
+      },
+      {
+        "predicted_time_s": 16956.9,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 16953.487,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 3.4130000000004657
+      },
+      {
+        "predicted_time_s": 17675.75,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 17673.131,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 2.6189999999987776
+      },
+      {
+        "predicted_time_s": 19179.7,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 19176.321,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 3.379000000000815
+      },
+      {
+        "predicted_time_s": 19863.9,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 19863.909,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.008999999998195563
+      },
+      {
+        "predicted_time_s": 21594.25,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 21592.069,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 2.1810000000004948
+      },
+      {
+        "predicted_time_s": 22970.45,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 22969.488,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.9619999999995343
+      },
+      {
+        "predicted_time_s": 23237.95,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 23237.229,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.7210000000013679
+      },
+      {
+        "predicted_time_s": 23766.3,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 23765.348,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.9519999999974971
+      },
+      {
+        "predicted_time_s": 24949.5,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 24948.356,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.1440000000002328
+      },
+      {
+        "predicted_time_s": 26339.4,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 26338.67,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.7300000000032014
+      },
+      {
+        "predicted_time_s": 28969.7,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 28968.498,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.202000000001135
+      },
+      {
+        "predicted_time_s": 30097.25,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 30096.606,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.6440000000002328
+      },
+      {
+        "predicted_time_s": 31371.15,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 31370.217,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.9330000000009022
+      },
+      {
+        "predicted_time_s": 31561.05,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 31560.508,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.5419999999976426
+      },
+      {
+        "predicted_time_s": 36376.95,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 36375.998,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 0.9519999999974971
+      },
+      {
+        "predicted_time_s": 37274.55,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 37271.175,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 3.375
+      },
+      {
+        "predicted_time_s": 37699.85,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 37699.889,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 0.03900000000430737
+      },
+      {
+        "predicted_time_s": 37810.95,
+        "predicted_category": "great tinamou",
+        "expected_time_s": 37810.802,
+        "expected_category": "Great Tinamou",
+        "abs_error_s": 0.14799999999377178
+      },
+      {
+        "predicted_time_s": 38602.45,
+        "predicted_category": "scarlet macaw",
+        "expected_time_s": 38600.854,
+        "expected_category": "Scarlet Macaw",
+        "abs_error_s": 1.59599999999773
+      },
+      {
+        "predicted_time_s": 38803.05,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 38799.645,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 3.405000000006112
+      },
+      {
+        "predicted_time_s": 43077.8,
+        "predicted_category": "montezuma oropendola",
+        "expected_time_s": 43076.154,
+        "expected_category": "Montezuma Oropendola",
+        "abs_error_s": 1.6460000000006403
+      }
+    ]
+  },
+  "overall": {
+    "true_positives": 33,
+    "false_positives": 251,
+    "false_negatives": 33,
+    "precision": 0.11619718309859155,
+    "recall": 0.5,
+    "f1": 0.18857142857142858
+  }
+}
