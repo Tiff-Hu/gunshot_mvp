@@ -1,0 +1,783 @@
+{
+  "n_gunshot_events": 359,
+  "n_bird_events": 294,
+  "n_total_events": 653,
+  "ground_truth_log": "/Users/tiff1101/Downloads/node_001_12hr_20260407_152944_log.json",
+  "node_id": null,
+  "run_id": null,
+  "evaluation": {
+    "gunshot": {
+      "event_type": "GUNSHOT",
+      "tolerance_seconds": 2.0,
+      "require_category_match": false,
+      "n_predictions": 98,
+      "n_expected": 77,
+      "true_positives": 76,
+      "false_positives": 22,
+      "false_negatives": 1,
+      "precision": 0.7755102040816326,
+      "recall": 0.987012987012987,
+      "f1": 0.8685714285714285,
+      "matches": [
+        {
+          "predicted_time_s": 970.6836734693877,
+          "predicted_category": "gunshot",
+          "expected_time_s": 970.664,
+          "expected_category": "M16",
+          "abs_error_s": 0.019673469387726072
+        },
+        {
+          "predicted_time_s": 3132.9431972789116,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3131.948,
+          "expected_category": "Ruger357",
+          "abs_error_s": 0.9951972789117463
+        },
+        {
+          "predicted_time_s": 3171.486394557823,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3170.763,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7233945578232124
+        },
+        {
+          "predicted_time_s": 3322.3380952380953,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3321.336,
+          "expected_category": "M16",
+          "abs_error_s": 1.002095238095535
+        },
+        {
+          "predicted_time_s": 3347.132993197279,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3346.286,
+          "expected_category": "Ruger357",
+          "abs_error_s": 0.8469931972790619
+        },
+        {
+          "predicted_time_s": 3430.552721088435,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3429.56,
+          "expected_category": "M16",
+          "abs_error_s": 0.9927210884352462
+        },
+        {
+          "predicted_time_s": 3944.0319727891156,
+          "predicted_category": "gunshot",
+          "expected_time_s": 3942.914,
+          "expected_category": "M16",
+          "abs_error_s": 1.1179727891153561
+        },
+        {
+          "predicted_time_s": 4044.6996598639457,
+          "predicted_category": "gunshot",
+          "expected_time_s": 4043.723,
+          "expected_category": "SW22",
+          "abs_error_s": 0.9766598639457698
+        },
+        {
+          "predicted_time_s": 5050.540136054422,
+          "predicted_category": "gunshot",
+          "expected_time_s": 5049.556,
+          "expected_category": "SW22",
+          "abs_error_s": 0.984136054422379
+        },
+        {
+          "predicted_time_s": 5652.201700680273,
+          "predicted_category": "gunshot",
+          "expected_time_s": 5651.405,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7967006802728065
+        },
+        {
+          "predicted_time_s": 5711.944217687075,
+          "predicted_category": "gunshot",
+          "expected_time_s": 5711.145,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7992176870748153
+        },
+        {
+          "predicted_time_s": 5845.481292517007,
+          "predicted_category": "gunshot",
+          "expected_time_s": 5844.466,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.0152925170068556
+        },
+        {
+          "predicted_time_s": 5957.372789115646,
+          "predicted_category": "gunshot",
+          "expected_time_s": 5956.313,
+          "expected_category": "M16",
+          "abs_error_s": 1.059789115645799
+        },
+        {
+          "predicted_time_s": 6026.835034013606,
+          "predicted_category": "gunshot",
+          "expected_time_s": 6025.953,
+          "expected_category": "SW22",
+          "abs_error_s": 0.8820340136053346
+        },
+        {
+          "predicted_time_s": 6124.354761904762,
+          "predicted_category": "gunshot",
+          "expected_time_s": 6123.567,
+          "expected_category": "WASR",
+          "abs_error_s": 0.787761904762192
+        },
+        {
+          "predicted_time_s": 6620.840476190476,
+          "predicted_category": "gunshot",
+          "expected_time_s": 6619.761,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.0794761904753614
+        },
+        {
+          "predicted_time_s": 7007.303741496598,
+          "predicted_category": "gunshot",
+          "expected_time_s": 7006.529,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.774741496597926
+        },
+        {
+          "predicted_time_s": 7148.020068027211,
+          "predicted_category": "gunshot",
+          "expected_time_s": 7146.905,
+          "expected_category": "WASR",
+          "abs_error_s": 1.1150680272112368
+        },
+        {
+          "predicted_time_s": 7259.25612244898,
+          "predicted_category": "gunshot",
+          "expected_time_s": 7258.264,
+          "expected_category": "M16",
+          "abs_error_s": 0.9921224489798988
+        },
+        {
+          "predicted_time_s": 8174.225850340136,
+          "predicted_category": "gunshot",
+          "expected_time_s": 8173.183,
+          "expected_category": "SW22",
+          "abs_error_s": 1.0428503401362832
+        },
+        {
+          "predicted_time_s": 8423.492517006804,
+          "predicted_category": "gunshot",
+          "expected_time_s": 8422.6,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.8925170068032457
+        },
+        {
+          "predicted_time_s": 8906.516326530613,
+          "predicted_category": "gunshot",
+          "expected_time_s": 8905.996,
+          "expected_category": "M16",
+          "abs_error_s": 0.5203265306136018
+        },
+        {
+          "predicted_time_s": 9451.80850340136,
+          "predicted_category": "gunshot",
+          "expected_time_s": 9450.824,
+          "expected_category": "SW22",
+          "abs_error_s": 0.9845034013596887
+        },
+        {
+          "predicted_time_s": 10137.353401360544,
+          "predicted_category": "gunshot",
+          "expected_time_s": 10136.292,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.0614013605445507
+        },
+        {
+          "predicted_time_s": 10283.824829931973,
+          "predicted_category": "gunshot",
+          "expected_time_s": 10283.139,
+          "expected_category": "Rem700",
+          "abs_error_s": 0.6858299319737853
+        },
+        {
+          "predicted_time_s": 11300.087074829931,
+          "predicted_category": "gunshot",
+          "expected_time_s": 11298.994,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.0930748299306288
+        },
+        {
+          "predicted_time_s": 11448.90850340136,
+          "predicted_category": "gunshot",
+          "expected_time_s": 11448.293,
+          "expected_category": "WASR",
+          "abs_error_s": 0.6155034013609111
+        },
+        {
+          "predicted_time_s": 11839.609523809524,
+          "predicted_category": "gunshot",
+          "expected_time_s": 11838.523,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.086523809524806
+        },
+        {
+          "predicted_time_s": 12277.758163265305,
+          "predicted_category": "gunshot",
+          "expected_time_s": 12277.748,
+          "expected_category": "M16",
+          "abs_error_s": 0.0101632653058914
+        },
+        {
+          "predicted_time_s": 13268.71394557823,
+          "predicted_category": "gunshot",
+          "expected_time_s": 13267.731,
+          "expected_category": "SW22",
+          "abs_error_s": 0.9829455782310106
+        },
+        {
+          "predicted_time_s": 13796.117346938776,
+          "predicted_category": "gunshot",
+          "expected_time_s": 13795.396,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7213469387752411
+        },
+        {
+          "predicted_time_s": 14292.123469387756,
+          "predicted_category": "gunshot",
+          "expected_time_s": 14291.242,
+          "expected_category": "SW22",
+          "abs_error_s": 0.8814693877557147
+        },
+        {
+          "predicted_time_s": 14579.197959183673,
+          "predicted_category": "gunshot",
+          "expected_time_s": 14578.149,
+          "expected_category": "SW22",
+          "abs_error_s": 1.0489591836740146
+        },
+        {
+          "predicted_time_s": 15309.568707482993,
+          "predicted_category": "gunshot",
+          "expected_time_s": 15308.529,
+          "expected_category": "SW22",
+          "abs_error_s": 1.039707482992526
+        },
+        {
+          "predicted_time_s": 15374.060544217687,
+          "predicted_category": "gunshot",
+          "expected_time_s": 15373.127,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.9335442176870856
+        },
+        {
+          "predicted_time_s": 15473.912925170069,
+          "predicted_category": "gunshot",
+          "expected_time_s": 15472.794,
+          "expected_category": "WASR",
+          "abs_error_s": 1.1189251700689056
+        },
+        {
+          "predicted_time_s": 16341.706802721088,
+          "predicted_category": "gunshot",
+          "expected_time_s": 16340.649,
+          "expected_category": "M16",
+          "abs_error_s": 1.057802721088592
+        },
+        {
+          "predicted_time_s": 16391.84149659864,
+          "predicted_category": "gunshot",
+          "expected_time_s": 16390.995,
+          "expected_category": "Ruger357",
+          "abs_error_s": 0.8464965986422612
+        },
+        {
+          "predicted_time_s": 16567.775850340135,
+          "predicted_category": "gunshot",
+          "expected_time_s": 16566.88,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.8958503401336202
+        },
+        {
+          "predicted_time_s": 16765.836734693876,
+          "predicted_category": "gunshot",
+          "expected_time_s": 16764.956,
+          "expected_category": "SW22",
+          "abs_error_s": 0.8807346938774572
+        },
+        {
+          "predicted_time_s": 17380.511224489797,
+          "predicted_category": "gunshot",
+          "expected_time_s": 17379.536,
+          "expected_category": "SW22",
+          "abs_error_s": 0.975224489797256
+        },
+        {
+          "predicted_time_s": 17686.961224489794,
+          "predicted_category": "gunshot",
+          "expected_time_s": 17685.995,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.9662244897954224
+        },
+        {
+          "predicted_time_s": 18253.516666666666,
+          "predicted_category": "gunshot",
+          "expected_time_s": 18252.417,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.0996666666651436
+        },
+        {
+          "predicted_time_s": 18982.034353741496,
+          "predicted_category": "gunshot",
+          "expected_time_s": 18981.173,
+          "expected_category": "WASR",
+          "abs_error_s": 0.8613537414967141
+        },
+        {
+          "predicted_time_s": 19645.32482993197,
+          "predicted_category": "gunshot",
+          "expected_time_s": 19644.267,
+          "expected_category": "M16",
+          "abs_error_s": 1.057829931971355
+        },
+        {
+          "predicted_time_s": 21606.821768707483,
+          "predicted_category": "gunshot",
+          "expected_time_s": 21606.093,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7287687074822315
+        },
+        {
+          "predicted_time_s": 21838.198299319727,
+          "predicted_category": "gunshot",
+          "expected_time_s": 21837.12,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.078299319728103
+        },
+        {
+          "predicted_time_s": 22208.7231292517,
+          "predicted_category": "gunshot",
+          "expected_time_s": 22207.637,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.0861292517001857
+        },
+        {
+          "predicted_time_s": 23277.871088435375,
+          "predicted_category": "gunshot",
+          "expected_time_s": 23276.771,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.1000884353743459
+        },
+        {
+          "predicted_time_s": 24902.5425170068,
+          "predicted_category": "gunshot",
+          "expected_time_s": 24902.444,
+          "expected_category": "Rem700",
+          "abs_error_s": 0.09851700680155773
+        },
+        {
+          "predicted_time_s": 26330.943537414965,
+          "predicted_category": "gunshot",
+          "expected_time_s": 26329.935,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.0085374149639392
+        },
+        {
+          "predicted_time_s": 26807.206462585033,
+          "predicted_category": "gunshot",
+          "expected_time_s": 26806.422,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7844625850339071
+        },
+        {
+          "predicted_time_s": 27264.955782312925,
+          "predicted_category": "gunshot",
+          "expected_time_s": 27263.966,
+          "expected_category": "SW22",
+          "abs_error_s": 0.9897823129249446
+        },
+        {
+          "predicted_time_s": 28867.77244897959,
+          "predicted_category": "gunshot",
+          "expected_time_s": 28866.916,
+          "expected_category": "M16",
+          "abs_error_s": 0.8564489795899135
+        },
+        {
+          "predicted_time_s": 28970.9193877551,
+          "predicted_category": "gunshot",
+          "expected_time_s": 28970.066,
+          "expected_category": "M16",
+          "abs_error_s": 0.8533877551017213
+        },
+        {
+          "predicted_time_s": 29211.82380952381,
+          "predicted_category": "gunshot",
+          "expected_time_s": 29210.935,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.8888095238071401
+        },
+        {
+          "predicted_time_s": 30057.988095238095,
+          "predicted_category": "gunshot",
+          "expected_time_s": 30057.126,
+          "expected_category": "M16",
+          "abs_error_s": 0.8620952380952076
+        },
+        {
+          "predicted_time_s": 30453.948639455783,
+          "predicted_category": "gunshot",
+          "expected_time_s": 30453.926,
+          "expected_category": "M16",
+          "abs_error_s": 0.022639455783064477
+        },
+        {
+          "predicted_time_s": 30822.043537414967,
+          "predicted_category": "gunshot",
+          "expected_time_s": 30821.056,
+          "expected_category": "Ruger357",
+          "abs_error_s": 0.9875374149669369
+        },
+        {
+          "predicted_time_s": 31455.23163265306,
+          "predicted_category": "gunshot",
+          "expected_time_s": 31454.545,
+          "expected_category": "Rem700",
+          "abs_error_s": 0.6866326530616789
+        },
+        {
+          "predicted_time_s": 32315.368027210883,
+          "predicted_category": "gunshot",
+          "expected_time_s": 32314.481,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.8870272108833888
+        },
+        {
+          "predicted_time_s": 33409.24693877551,
+          "predicted_category": "gunshot",
+          "expected_time_s": 33408.191,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.0559387755129137
+        },
+        {
+          "predicted_time_s": 33537.60442176871,
+          "predicted_category": "gunshot",
+          "expected_time_s": 33536.704,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.9004217687106575
+        },
+        {
+          "predicted_time_s": 34563.42653061225,
+          "predicted_category": "gunshot",
+          "expected_time_s": 34562.377,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.049530612246599
+        },
+        {
+          "predicted_time_s": 35325.00544217687,
+          "predicted_category": "gunshot",
+          "expected_time_s": 35324.931,
+          "expected_category": "Rem700",
+          "abs_error_s": 0.07444217687589116
+        },
+        {
+          "predicted_time_s": 35384.04455782313,
+          "predicted_category": "gunshot",
+          "expected_time_s": 35383.194,
+          "expected_category": "WASR",
+          "abs_error_s": 0.8505578231270192
+        },
+        {
+          "predicted_time_s": 35736.58469387755,
+          "predicted_category": "gunshot",
+          "expected_time_s": 35735.564,
+          "expected_category": "Rem700",
+          "abs_error_s": 1.020693877551821
+        },
+        {
+          "predicted_time_s": 36780.42482993197,
+          "predicted_category": "gunshot",
+          "expected_time_s": 36779.571,
+          "expected_category": "M16",
+          "abs_error_s": 0.8538299319698126
+        },
+        {
+          "predicted_time_s": 36927.95,
+          "predicted_category": "gunshot",
+          "expected_time_s": 36927.845,
+          "expected_category": "Rem700",
+          "abs_error_s": 0.10499999999592546
+        },
+        {
+          "predicted_time_s": 37368.22619047619,
+          "predicted_category": "gunshot",
+          "expected_time_s": 37367.292,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.9341904761895421
+        },
+        {
+          "predicted_time_s": 37603.74319727891,
+          "predicted_category": "gunshot",
+          "expected_time_s": 37603.011,
+          "expected_category": "WASR",
+          "abs_error_s": 0.7321972789141
+        },
+        {
+          "predicted_time_s": 39143.763945578234,
+          "predicted_category": "gunshot",
+          "expected_time_s": 39143.138,
+          "expected_category": "WASR",
+          "abs_error_s": 0.6259455782346777
+        },
+        {
+          "predicted_time_s": 40502.52823129252,
+          "predicted_category": "gunshot",
+          "expected_time_s": 40501.412,
+          "expected_category": "WASR",
+          "abs_error_s": 1.1162312925225706
+        },
+        {
+          "predicted_time_s": 42459.30918367347,
+          "predicted_category": "gunshot",
+          "expected_time_s": 42458.348,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.9611836734693497
+        },
+        {
+          "predicted_time_s": 42525.973809523806,
+          "predicted_category": "gunshot",
+          "expected_time_s": 42524.868,
+          "expected_category": "Ruger357",
+          "abs_error_s": 1.105809523804055
+        },
+        {
+          "predicted_time_s": 43054.831972789114,
+          "predicted_category": "gunshot",
+          "expected_time_s": 43053.887,
+          "expected_category": "Colt1911",
+          "abs_error_s": 0.944972789111489
+        }
+      ]
+    },
+    "bird": {
+      "event_type": "BIRD",
+      "tolerance_seconds": 5.0,
+      "require_category_match": true,
+      "n_predictions": 186,
+      "n_expected": 54,
+      "true_positives": 29,
+      "false_positives": 157,
+      "false_negatives": 25,
+      "precision": 0.15591397849462366,
+      "recall": 0.5370370370370371,
+      "f1": 0.2416666666666667,
+      "matches": [
+        {
+          "predicted_time_s": 198.3,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 196.716,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 1.5840000000000032
+        },
+        {
+          "predicted_time_s": 2033.45,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 2029.82,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 3.630000000000109
+        },
+        {
+          "predicted_time_s": 4552.4,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 4550.813,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 1.5869999999995343
+        },
+        {
+          "predicted_time_s": 9282.45,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 9282.236,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 0.2139999999999418
+        },
+        {
+          "predicted_time_s": 10566.35,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 10564.785,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 1.5650000000005093
+        },
+        {
+          "predicted_time_s": 11002.8,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 10999.937,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.8629999999993743
+        },
+        {
+          "predicted_time_s": 12176.9,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 12174.764,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 2.136000000000422
+        },
+        {
+          "predicted_time_s": 13283.9,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 13280.329,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 3.5709999999999127
+        },
+        {
+          "predicted_time_s": 14477.8,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 14477.658,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 0.14199999999982538
+        },
+        {
+          "predicted_time_s": 16161.75,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 16158.173,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 3.576999999999316
+        },
+        {
+          "predicted_time_s": 16679.7,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 16676.828,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.871999999999389
+        },
+        {
+          "predicted_time_s": 16987.6,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 16986.576,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 1.0239999999976135
+        },
+        {
+          "predicted_time_s": 18025.35,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 18023.792,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 1.5579999999972642
+        },
+        {
+          "predicted_time_s": 18447.15,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 18446.948,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 0.20200000000113505
+        },
+        {
+          "predicted_time_s": 20195.7,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 20192.841,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.8590000000003783
+        },
+        {
+          "predicted_time_s": 20934.65,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 20931.095,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 3.555000000000291
+        },
+        {
+          "predicted_time_s": 28012.25,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 28010.096,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 2.153999999998632
+        },
+        {
+          "predicted_time_s": 28199.95,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 28197.818,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 2.132000000001426
+        },
+        {
+          "predicted_time_s": 29125.9,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 29123.258,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.6419999999998254
+        },
+        {
+          "predicted_time_s": 31409.9,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 31407.764,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 2.136000000002241
+        },
+        {
+          "predicted_time_s": 33371.9,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 33367.08,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 4.819999999999709
+        },
+        {
+          "predicted_time_s": 34120.15,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 34118.574,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 1.5760000000009313
+        },
+        {
+          "predicted_time_s": 37320.55,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 37315.713,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 4.836999999999534
+        },
+        {
+          "predicted_time_s": 37735.75,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 37730.918,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 4.832000000002154
+        },
+        {
+          "predicted_time_s": 37887.6,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 37886.869,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 0.7309999999997672
+        },
+        {
+          "predicted_time_s": 39180.95,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 39178.385,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.5649999999950523
+        },
+        {
+          "predicted_time_s": 39675.75,
+          "predicted_category": "great tinamou",
+          "expected_time_s": 39671.455,
+          "expected_category": "Great Tinamou",
+          "abs_error_s": 4.294999999998254
+        },
+        {
+          "predicted_time_s": 40919.6,
+          "predicted_category": "montezuma oropendola",
+          "expected_time_s": 40917.075,
+          "expected_category": "Montezuma Oropendola",
+          "abs_error_s": 2.525000000001455
+        },
+        {
+          "predicted_time_s": 42539.85,
+          "predicted_category": "scarlet macaw",
+          "expected_time_s": 42539.149,
+          "expected_category": "Scarlet Macaw",
+          "abs_error_s": 0.7010000000009313
+        }
+      ]
+    },
+    "overall": {
+      "true_positives": 105,
+      "false_positives": 179,
+      "false_negatives": 26,
+      "precision": 0.36971830985915494,
+      "recall": 0.8015267175572519,
+      "f1": 0.5060240963855421
+    }
+  }
+}
