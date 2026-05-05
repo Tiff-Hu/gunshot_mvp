@@ -1,0 +1,12 @@
+{
+  "node_id": "test_node_001_finetuned",
+  "run_id": "test_tinycnn_finetuned_run",
+  "input_audio": "node_001_12hr_20260407_152944.wav",
+  "n_stage_1_candidates": 287,
+  "n_stage_2_birdcall_confirmed": 263,
+  "n_birdnet_events": 263,
+  "n_human_presence_events": 263,
+  "tinycnn_model_status": "tinycnn_weights_loaded",
+  "birdnet_status": "enabled",
+  "human_presence_status": "proxy_feature_scorer"
+}
