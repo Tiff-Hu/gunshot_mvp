@@ -1,0 +1,5 @@
+# Optional dependencies for running Stage 3 BirdNET locally.
+# The audio workflow endpoint can be smoke-tested without these by sending
+# "skip_birdnet": true.
+birdnetlib>=0.18.0
+tensorflow>=2.15.0
